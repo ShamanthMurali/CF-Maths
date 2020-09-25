@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T17:30:45.799Z" agent="5.0 (X11)" etag="ZkW8mqWUwVjh2f8ILapU" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-09-25T18:54:45.628Z" agent="5.0 (X11)" etag="Dv0JHpArTPDWWr5mlJBl" version="13.7.5" type="github">
   <diagram id="G_qiK4xD2aFkiPDflhgt" name="Page-1">
-    <mxGraphModel dx="868" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1259" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="sS93aqTmteilyR840QOO-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sS93aqTmteilyR840QOO-1" target="sS93aqTmteilyR840QOO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sS93aqTmteilyR840QOO-1" value="Time series" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sS93aqTmteilyR840QOO-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sS93aqTmteilyR840QOO-2" target="sS93aqTmteilyR840QOO-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sS93aqTmteilyR840QOO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sS93aqTmteilyR840QOO-2" target="sS93aqTmteilyR840QOO-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sS93aqTmteilyR840QOO-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sS93aqTmteilyR840QOO-2" target="sS93aqTmteilyR840QOO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sS93aqTmteilyR840QOO-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sS93aqTmteilyR840QOO-2" target="sS93aqTmteilyR840QOO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sS93aqTmteilyR840QOO-2" value="&lt;div&gt;Secular Trend&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sS93aqTmteilyR840QOO-3" value="Method of Semi -averages" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sS93aqTmteilyR840QOO-4" value="Graphic or a free hand curve method" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sS93aqTmteilyR840QOO-5" value="Method of Moving Averages" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sS93aqTmteilyR840QOO-6" value="Method of Least Squares" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
