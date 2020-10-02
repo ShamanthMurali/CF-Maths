@@ -1,17 +1,145 @@
-<mxfile host="app.diagrams.net" modified="2020-10-02T19:41:59.360Z" agent="5.0 (X11)" etag="C6DhAaKi3xt3ma3xQmOF" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-02T20:16:06.637Z" agent="5.0 (X11)" etag="bJNqNeT59TedrKagF1ad" version="13.7.7" type="github">
   <diagram id="ND-7XsS7a09aRUfCy1EH" name="Page-1">
-    <mxGraphModel dx="1263" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1486" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="CimhMN30q4k0gmEywpXT-1" value="&lt;div&gt;Binomial &lt;br&gt;&lt;/div&gt;&lt;div&gt;Distribution&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" width="120" height="40" as="geometry" />
+        <mxCell id="CimhMN30q4k0gmEywpXT-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CimhMN30q4k0gmEywpXT-1" target="CimhMN30q4k0gmEywpXT-8" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-1" value="&lt;div&gt;Binomial &lt;br&gt;&lt;/div&gt;&lt;div&gt;Distribution&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="80" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CimhMN30q4k0gmEywpXT-2" value="&lt;div&gt;Poisson&lt;br&gt;&lt;/div&gt;&lt;div&gt;Distribution&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="CimhMN30q4k0gmEywpXT-3" value="&lt;div&gt;Normal&lt;br&gt;&lt;/div&gt;&lt;div&gt;Distribution&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CimhMN30q4k0gmEywpXT-5" target="CimhMN30q4k0gmEywpXT-6" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-5" value="2. every trial is independent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="20.5" y="140" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CimhMN30q4k0gmEywpXT-6" target="CimhMN30q4k0gmEywpXT-7" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-6" value="3. Events are mutually exclusive and exhaustive" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="21" y="200" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CimhMN30q4k0gmEywpXT-7" target="CimhMN30q4k0gmEywpXT-9" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="141" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-7" value="&lt;div&gt;4. Every trial has only 2 outcomes&lt;/div&gt;&lt;div&gt;p = Success , Q = Failure&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="21" y="260" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CimhMN30q4k0gmEywpXT-8" target="CimhMN30q4k0gmEywpXT-4" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-8" value="&lt;u&gt;&lt;b&gt;Rules&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="80" y="60" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.51;entryY=-0.017;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="CimhMN30q4k0gmEywpXT-9" target="CimhMN30q4k0gmEywpXT-10" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-9" value="&lt;u&gt;&lt;b&gt;Formula&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="81" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CimhMN30q4k0gmEywpXT-10" target="CimhMN30q4k0gmEywpXT-11" visible="0">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="141" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-10" value="$$BD=^{n}C_{r}\left( P\right) ^{r}\left( Q\right) ^{n-r}$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="19.5" y="340" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CimhMN30q4k0gmEywpXT-11" target="CimhMN30q4k0gmEywpXT-12" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-11" value="&lt;u&gt;&lt;b&gt;Properties&lt;/b&gt;&lt;/u&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="81" y="380" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CimhMN30q4k0gmEywpXT-12" target="CimhMN30q4k0gmEywpXT-13" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-12" value="&lt;div&gt;`Mean = nP`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="80" y="420" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CimhMN30q4k0gmEywpXT-13" target="CimhMN30q4k0gmEywpXT-16" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CimhMN30q4k0gmEywpXT-13" target="CimhMN30q4k0gmEywpXT-14" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-13" value="&lt;div&gt;Variance&lt;/div&gt;&lt;div&gt;$$\sigma ^{2}=nPQ$$&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="80" y="480" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CimhMN30q4k0gmEywpXT-14" target="CimhMN30q4k0gmEywpXT-18" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-14" value="&lt;div&gt;Standard Deviation&lt;br&gt;&lt;/div&gt;&lt;div&gt;$$\sigma =\sqrt{nPQ}$$&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="79.5" y="595" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-16" value="&lt;div&gt;IMPORTANT&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;1. Variance is always less than Mean.&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;2. variance will be highest when P = Q&lt;/div&gt;&lt;div&gt;i.e. &lt;span class=&quot;aCOpRe&quot;&gt;&lt;span&gt;&lt;em&gt;`n/4`&lt;/em&gt;&lt;em&gt;&lt;/em&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="230" y="455" width="220" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CimhMN30q4k0gmEywpXT-18" target="CimhMN30q4k0gmEywpXT-21" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-18" value="&lt;div&gt;Mode&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="79.5" y="700" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CimhMN30q4k0gmEywpXT-19" target="CimhMN30q4k0gmEywpXT-25" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-19" value="integer (no decimal numbers)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="10" y="840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CimhMN30q4k0gmEywpXT-20" target="CimhMN30q4k0gmEywpXT-33" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-20" value="&lt;div&gt;with &lt;br&gt;&lt;/div&gt;&lt;div&gt;decimal numbers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="150" y="840" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CimhMN30q4k0gmEywpXT-21" target="CimhMN30q4k0gmEywpXT-19" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CimhMN30q4k0gmEywpXT-21" target="CimhMN30q4k0gmEywpXT-20" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-21" value="`(n+1)P`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="80" y="760" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CimhMN30q4k0gmEywpXT-25" target="CimhMN30q4k0gmEywpXT-30" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CimhMN30q4k0gmEywpXT-25" target="CimhMN30q4k0gmEywpXT-29" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-25" value="&lt;div&gt;Bi-modal&lt;/div&gt;&lt;div&gt;(Having 2 modes)&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="10" y="900" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-29" value="`(n+1)P-1`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="81" y="980" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-30" value="`(n+1)P`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="-60" y="980" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-33" value="&lt;div&gt;Use `(n+1)P`&lt;/div&gt;&lt;div&gt;but ignore the decimal point. &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="150" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="CimhMN30q4k0gmEywpXT-4" target="CimhMN30q4k0gmEywpXT-5" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-4" value="1. where the number of trials are too large but finite." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="20.5" y="80" width="240" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
