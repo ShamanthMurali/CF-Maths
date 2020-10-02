@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-02T13:57:20.114Z" agent="5.0 (X11)" etag="4aXvWgfiV7G-nmU6zoRg" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-02T14:56:38.041Z" agent="5.0 (X11)" etag="PWV6GZOxQ8_GU0PygV0b" version="13.7.7" type="github">
   <diagram id="OtZ5HoyZfcZaUIBZ66TO" name="Page-1">
-    <mxGraphModel dx="1017" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1196" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Dsb-6HLC4nUmTApN9--K-1" value="Probability" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" width="120" height="40" as="geometry" />
+          <mxGeometry x="330" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dsb-6HLC4nUmTApN9--K-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Dsb-6HLC4nUmTApN9--K-2" target="Dsb-6HLC4nUmTApN9--K-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -29,14 +29,14 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Dsb-6HLC4nUmTApN9--K-2" value="&lt;div&gt;Formula&lt;/div&gt;&lt;div&gt;$$Probability=\dfrac{Favorable.outcomes}{Total.outcomes}$$&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="275" y="60" width="290" height="90" as="geometry" />
+          <mxGeometry x="245" y="60" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Dsb-6HLC4nUmTApN9--K-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Dsb-6HLC4nUmTApN9--K-4" target="Dsb-6HLC4nUmTApN9--K-5" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Cointoss" treeRoot="1" id="Dsb-6HLC4nUmTApN9--K-4">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
-            <mxGeometry x="40" y="200" width="120" height="40" as="geometry" />
+            <mxGeometry x="10" y="200" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Dsb-6HLC4nUmTApN9--K-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Dsb-6HLC4nUmTApN9--K-5" target="Dsb-6HLC4nUmTApN9--K-8" edge="1" visible="0">
@@ -79,7 +79,7 @@
         </mxCell>
         <UserObject label="dice" treeRoot="1" id="Dsb-6HLC4nUmTApN9--K-19">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
-            <mxGeometry x="180" y="200" width="120" height="40" as="geometry" />
+            <mxGeometry x="150" y="200" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Dsb-6HLC4nUmTApN9--K-22" value="&lt;div&gt;There is no formula for this type of problems&lt;/div&gt;&lt;div&gt;you must plot all the outcomes before solving the problems&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
@@ -90,7 +90,7 @@
         </mxCell>
         <UserObject label="Card" treeRoot="1" id="Dsb-6HLC4nUmTApN9--K-24">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" parent="1" vertex="1" collapsed="1">
-            <mxGeometry x="320" y="200" width="120" height="40" as="geometry" />
+            <mxGeometry x="290" y="200" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="Dsb-6HLC4nUmTApN9--K-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Dsb-6HLC4nUmTApN9--K-25" target="Dsb-6HLC4nUmTApN9--K-26" edge="1" visible="0">
@@ -158,19 +158,89 @@
         </mxCell>
         <UserObject label="Divisibility" treeRoot="1" link="https://youtu.be/EBDwjS8pLG4?list=PLLgJVrtHe9RrphFnUSJOB7ZIEF31Ggyuf" id="8W5bNoipC70U9L3BNI3n-3">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" parent="1">
-            <mxGeometry x="460" y="200" width="120" height="40" as="geometry" />
+            <mxGeometry x="430" y="200" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Continues series" treeRoot="1" link="https://youtu.be/w71B8-cugNo?list=PLLgJVrtHe9RrphFnUSJOB7ZIEF31Ggyuf&amp;t=23" id="8W5bNoipC70U9L3BNI3n-5">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" parent="1">
-            <mxGeometry x="600" y="200" width="120" height="40" as="geometry" />
+            <mxGeometry x="570" y="200" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;Set and venn&lt;/div&gt;&lt;div&gt;diagram&lt;br&gt;&lt;/div&gt;" treeRoot="1" link="https://youtu.be/lKS87I54fZk?list=PLLgJVrtHe9RrphFnUSJOB7ZIEF31Ggyuf&amp;t=83" id="8W5bNoipC70U9L3BNI3n-7">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" parent="1">
-            <mxGeometry x="740" y="200" width="120" height="40" as="geometry" />
+            <mxGeometry x="710" y="200" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="&lt;div&gt;Set and venn&lt;/div&gt;&lt;div&gt;diagram&lt;br&gt;&lt;/div&gt;&amp;nbsp;part 2" treeRoot="1" link="https://youtu.be/YNJVo9aNF7g?list=PLLgJVrtHe9RrphFnUSJOB7ZIEF31Ggyuf" id="8W5bNoipC70U9L3BNI3n-11">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" parent="1">
+            <mxGeometry x="710" y="260" width="120" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8W5bNoipC70U9L3BNI3n-12" target="8W5bNoipC70U9L3BNI3n-13" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Formulas" treeRoot="1" id="8W5bNoipC70U9L3BNI3n-12">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="710" y="330" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8W5bNoipC70U9L3BNI3n-13" target="8W5bNoipC70U9L3BNI3n-14" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-13" value="$$P\left( A-B\right) =p\left( A\right) -p\left( A\cap B\right) =only.A$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="600" y="390" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.523;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="8W5bNoipC70U9L3BNI3n-14" target="8W5bNoipC70U9L3BNI3n-15" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-14" value="$$P\left( B-A\right) =p\left( B\right) -p\left( A\cap B\right) =only.B$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="600" y="450" width="340" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8W5bNoipC70U9L3BNI3n-15" target="8W5bNoipC70U9L3BNI3n-16" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-15" value="$$p\left( \dfrac{A}{B}\right) =\dfrac{P\left( A\cap B\right) }{P\left( B\right) }$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="660" y="510" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8W5bNoipC70U9L3BNI3n-16" target="8W5bNoipC70U9L3BNI3n-17" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-16" value="$$p\left( \dfrac{B}{A}\right) =\dfrac{P\left( A\cap B\right) }{P\left( A\right) }$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="660" y="600" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8W5bNoipC70U9L3BNI3n-17" target="8W5bNoipC70U9L3BNI3n-18" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-17" value="$$P\left( A^{1}\right) =1-n\left( A\right) $$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="660" y="690" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8W5bNoipC70U9L3BNI3n-18" target="8W5bNoipC70U9L3BNI3n-19" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-18" value="$$P\left( B^{1}\right) =1-n\left( B\right) $$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="660" y="750" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8W5bNoipC70U9L3BNI3n-19" target="8W5bNoipC70U9L3BNI3n-20" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-19" value="$$p\left( A\cup B\right) ^{1}=1-p\left( A\cup B\right) $$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="660" y="810" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8W5bNoipC70U9L3BNI3n-20" target="8W5bNoipC70U9L3BNI3n-21" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-20" value="$$p\left( A\cap B\right) ^{1}=1-p\left( A\cap B\right) $$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="660" y="870" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8W5bNoipC70U9L3BNI3n-21" target="8W5bNoipC70U9L3BNI3n-22" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-21" value="$$p\left( A\cap B\right) ^{1}=1-p\left( A\cap B\right) $$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="660" y="930" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-22" value="$$P\left( \dfrac{A^{1}}{B^{1}}\right) =\dfrac{P\left( A^{1}\cap B^{1}\right) }{P\left( B^{1}\right) }=\dfrac{p\left( A\cup B\right) ^{1}}{p\left( B\right) }=\dfrac{1-P\left( A\cup B\right) }{1-P\left( B\right) }$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="555" y="990" width="420" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
