@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-02T13:35:38.355Z" agent="5.0 (X11)" etag="lHN52wR7mKdWwAF52cBF" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-02T13:57:20.114Z" agent="5.0 (X11)" etag="4aXvWgfiV7G-nmU6zoRg" version="13.7.7" type="github">
   <diagram id="OtZ5HoyZfcZaUIBZ66TO" name="Page-1">
     <mxGraphModel dx="1017" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -20,6 +20,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8W5bNoipC70U9L3BNI3n-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dsb-6HLC4nUmTApN9--K-2" target="8W5bNoipC70U9L3BNI3n-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dsb-6HLC4nUmTApN9--K-2" target="8W5bNoipC70U9L3BNI3n-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dsb-6HLC4nUmTApN9--K-2" target="8W5bNoipC70U9L3BNI3n-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Dsb-6HLC4nUmTApN9--K-2" value="&lt;div&gt;Formula&lt;/div&gt;&lt;div&gt;$$Probability=\dfrac{Favorable.outcomes}{Total.outcomes}$$&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -153,6 +159,16 @@
         <UserObject label="Divisibility" treeRoot="1" link="https://youtu.be/EBDwjS8pLG4?list=PLLgJVrtHe9RrphFnUSJOB7ZIEF31Ggyuf" id="8W5bNoipC70U9L3BNI3n-3">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" parent="1">
             <mxGeometry x="460" y="200" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Continues series" treeRoot="1" link="https://youtu.be/w71B8-cugNo?list=PLLgJVrtHe9RrphFnUSJOB7ZIEF31Ggyuf&amp;t=23" id="8W5bNoipC70U9L3BNI3n-5">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" parent="1">
+            <mxGeometry x="600" y="200" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;div&gt;Set and venn&lt;/div&gt;&lt;div&gt;diagram&lt;br&gt;&lt;/div&gt;" treeRoot="1" link="https://youtu.be/lKS87I54fZk?list=PLLgJVrtHe9RrphFnUSJOB7ZIEF31Ggyuf&amp;t=83" id="8W5bNoipC70U9L3BNI3n-7">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" parent="1">
+            <mxGeometry x="740" y="200" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
       </root>
