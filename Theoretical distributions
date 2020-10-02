@@ -1,1 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2020-10-02T18:31:15.821Z" agent="5.0 (X11)" version="13.7.7" etag="1IY0l8K1q66HdPf6wD4H" type="github"><diagram id="ND-7XsS7a09aRUfCy1EH">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-02T19:41:59.360Z" agent="5.0 (X11)" etag="C6DhAaKi3xt3ma3xQmOF" version="13.7.7" type="github">
+  <diagram id="ND-7XsS7a09aRUfCy1EH" name="Page-1">
+    <mxGraphModel dx="1263" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CimhMN30q4k0gmEywpXT-1" value="&lt;div&gt;Binomial &lt;br&gt;&lt;/div&gt;&lt;div&gt;Distribution&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-2" value="&lt;div&gt;Poisson&lt;br&gt;&lt;/div&gt;&lt;div&gt;Distribution&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="CimhMN30q4k0gmEywpXT-3" value="&lt;div&gt;Normal&lt;br&gt;&lt;/div&gt;&lt;div&gt;Distribution&lt;br&gt; &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
