@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-02T15:27:21.507Z" agent="5.0 (X11)" etag="OIHu1CiDJrIQ0sbq_Lm5" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-02T18:05:23.457Z" agent="5.0 (X11)" etag="AaFBOCKiDRkUoH0hAwdM" version="13.7.7" type="github">
   <diagram id="OtZ5HoyZfcZaUIBZ66TO" name="Page-1">
-    <mxGraphModel dx="1017" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="2034" dy="914" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Dsb-6HLC4nUmTApN9--K-1" value="Probability" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" width="120" height="40" as="geometry" />
+          <mxGeometry x="850" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Dsb-6HLC4nUmTApN9--K-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Dsb-6HLC4nUmTApN9--K-2" target="Dsb-6HLC4nUmTApN9--K-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -37,8 +37,14 @@
         <mxCell id="8W5bNoipC70U9L3BNI3n-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dsb-6HLC4nUmTApN9--K-2" target="8W5bNoipC70U9L3BNI3n-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dsb-6HLC4nUmTApN9--K-2" target="8W5bNoipC70U9L3BNI3n-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dsb-6HLC4nUmTApN9--K-2" target="8W5bNoipC70U9L3BNI3n-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Dsb-6HLC4nUmTApN9--K-2" value="&lt;div&gt;Formula&lt;/div&gt;&lt;div&gt;$$Probability=\dfrac{Favorable.outcomes}{Total.outcomes}$$&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="245" y="60" width="290" height="90" as="geometry" />
+          <mxGeometry x="765" y="60" width="290" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Dsb-6HLC4nUmTApN9--K-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Dsb-6HLC4nUmTApN9--K-4" target="Dsb-6HLC4nUmTApN9--K-5" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -317,6 +323,56 @@
             <mxGeometry x="1095" y="260" width="190" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="odds in favor" treeRoot="1" link="https://youtu.be/Zilc0sd1Lck?list=PLLgJVrtHe9RrphFnUSJOB7ZIEF31Ggyuf" id="8W5bNoipC70U9L3BNI3n-60">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="1270" y="200" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8W5bNoipC70U9L3BNI3n-62" target="8W5bNoipC70U9L3BNI3n-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="Conditional" treeRoot="1" link="https://youtu.be/73aKpgTzV7A?list=PLLgJVrtHe9RrphFnUSJOB7ZIEF31Ggyuf" id="8W5bNoipC70U9L3BNI3n-62">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="1410" y="200" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-64" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
+          <mxGeometry x="1510" y="209" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-65" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
+          <mxGeometry x="1370" y="210" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-66" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
+          <mxGeometry x="670" y="210" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-67" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
+          <mxGeometry x="530" y="209" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-68" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
+          <mxGeometry x="810" y="210" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-69" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
+          <mxGeometry x="810" y="280" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-70" value="When &lt;b&gt;GIVEN THAT&lt;/b&gt; is in the question" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="265" width="120" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="Combination" treeRoot="1" link="https://youtu.be/7bRLc560qEo?list=PLLgJVrtHe9RrphFnUSJOB7ZIEF31Ggyuf" id="8W5bNoipC70U9L3BNI3n-72">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="1550" y="200" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-73" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
+          <mxGeometry x="1650" y="210" width="30" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="Expected Value" treeRoot="1" link="https://youtu.be/nzP5JIAm_9A?list=PLLgJVrtHe9RrphFnUSJOB7ZIEF31Ggyuf" id="8W5bNoipC70U9L3BNI3n-74">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="1690" y="199" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-75" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
+          <mxGeometry x="1790" y="210" width="30" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
