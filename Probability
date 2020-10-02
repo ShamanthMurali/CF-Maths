@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-02T14:56:38.041Z" agent="5.0 (X11)" etag="PWV6GZOxQ8_GU0PygV0b" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-02T15:08:14.629Z" agent="5.0 (X11)" etag="jEnM0JHzNKF8ltye28DK" version="13.7.7" type="github">
   <diagram id="OtZ5HoyZfcZaUIBZ66TO" name="Page-1">
-    <mxGraphModel dx="1196" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1017" dy="457" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,6 +26,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8W5bNoipC70U9L3BNI3n-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dsb-6HLC4nUmTApN9--K-2" target="8W5bNoipC70U9L3BNI3n-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dsb-6HLC4nUmTApN9--K-2" target="8W5bNoipC70U9L3BNI3n-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dsb-6HLC4nUmTApN9--K-2" target="8W5bNoipC70U9L3BNI3n-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dsb-6HLC4nUmTApN9--K-2" target="8W5bNoipC70U9L3BNI3n-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Dsb-6HLC4nUmTApN9--K-2" value="&lt;div&gt;Formula&lt;/div&gt;&lt;div&gt;$$Probability=\dfrac{Favorable.outcomes}{Total.outcomes}$$&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -166,11 +175,17 @@
             <mxGeometry x="570" y="200" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8W5bNoipC70U9L3BNI3n-7" target="8W5bNoipC70U9L3BNI3n-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="&lt;div&gt;Set and venn&lt;/div&gt;&lt;div&gt;diagram&lt;br&gt;&lt;/div&gt;" treeRoot="1" link="https://youtu.be/lKS87I54fZk?list=PLLgJVrtHe9RrphFnUSJOB7ZIEF31Ggyuf&amp;t=83" id="8W5bNoipC70U9L3BNI3n-7">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" parent="1">
             <mxGeometry x="710" y="200" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8W5bNoipC70U9L3BNI3n-11" target="8W5bNoipC70U9L3BNI3n-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <UserObject label="&lt;div&gt;Set and venn&lt;/div&gt;&lt;div&gt;diagram&lt;br&gt;&lt;/div&gt;&amp;nbsp;part 2" treeRoot="1" link="https://youtu.be/YNJVo9aNF7g?list=PLLgJVrtHe9RrphFnUSJOB7ZIEF31Ggyuf" id="8W5bNoipC70U9L3BNI3n-11">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" parent="1">
             <mxGeometry x="710" y="260" width="120" height="50" as="geometry" />
@@ -240,6 +255,41 @@
         </mxCell>
         <mxCell id="8W5bNoipC70U9L3BNI3n-22" value="$$P\left( \dfrac{A^{1}}{B^{1}}\right) =\dfrac{P\left( A^{1}\cap B^{1}\right) }{P\left( B^{1}\right) }=\dfrac{p\left( A\cup B\right) ^{1}}{p\left( B\right) }=\dfrac{1-P\left( A\cup B\right) }{1-P\left( B\right) }$$" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="555" y="990" width="420" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8W5bNoipC70U9L3BNI3n-39" target="8W5bNoipC70U9L3BNI3n-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="mutually exclusive " treeRoot="1" link="https://youtu.be/lKS87I54fZk?list=PLLgJVrtHe9RrphFnUSJOB7ZIEF31Ggyuf&amp;t=83" id="8W5bNoipC70U9L3BNI3n-39">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" parent="1">
+            <mxGeometry x="850" y="200" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="mutually exhaustive " treeRoot="1" link="https://youtu.be/lKS87I54fZk?list=PLLgJVrtHe9RrphFnUSJOB7ZIEF31Ggyuf&amp;t=83" id="8W5bNoipC70U9L3BNI3n-41">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" parent="1">
+            <mxGeometry x="990" y="200" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Equally likely" treeRoot="1" link="https://youtu.be/lKS87I54fZk?list=PLLgJVrtHe9RrphFnUSJOB7ZIEF31Ggyuf&amp;t=83" id="8W5bNoipC70U9L3BNI3n-43">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" parent="1">
+            <mxGeometry x="1130" y="200" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8W5bNoipC70U9L3BNI3n-46" target="8W5bNoipC70U9L3BNI3n-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="When nothing is common between the events" treeRoot="1" link="https://youtu.be/lKS87I54fZk?list=PLLgJVrtHe9RrphFnUSJOB7ZIEF31Ggyuf&amp;t=83" id="8W5bNoipC70U9L3BNI3n-46">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" parent="1">
+            <mxGeometry x="850" y="260" width="120" height="50" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8W5bNoipC70U9L3BNI3n-48" target="8W5bNoipC70U9L3BNI3n-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-48" value="$$P\left( A\cup B\cup C\right) =n\left( A\right) +n\left( B\right) +n\left( c\right) $$" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="765" y="385" width="290" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="8W5bNoipC70U9L3BNI3n-50" value="$$P\left( A\cup B\right) =n\left( A\right) +n\left( B\right) $$" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="807.5" y="450" width="205" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
