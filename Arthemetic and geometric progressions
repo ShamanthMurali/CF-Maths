@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T13:14:10.391Z" agent="5.0 (X11)" version="13.7.7" etag="26D05TwhTm8e5eFixjSq" type="github"><diagram id="FavlOHwS8RhdiEVBbatS">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-10-03T17:06:09.352Z" agent="5.0 (X11)" etag="SUNWFB2tz6MN7aHlAf5U" version="13.7.7" type="github">
+  <diagram id="FavlOHwS8RhdiEVBbatS" name="Page-1">
+    <mxGraphModel dx="1108" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UxAqlSmJzFTxJQ8XRc5Q-1" target="UxAqlSmJzFTxJQ8XRc5Q-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-1" value="AP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-2" value="HP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-3" value="GP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UxAqlSmJzFTxJQ8XRc5Q-4" target="UxAqlSmJzFTxJQ8XRc5Q-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-4" value="&lt;span style=&quot;font-weight: 400&quot;&gt;a, a + d, a + 2d, a + 3d, a + 4d, ………. ,a + (n – 1) d&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="60" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UxAqlSmJzFTxJQ8XRc5Q-5" target="UxAqlSmJzFTxJQ8XRc5Q-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-5" value="&lt;h3&gt;nth Term of an AP&lt;/h3&gt;&lt;div&gt;&lt;strong&gt;a&lt;sub&gt;n&lt;/sub&gt; = a + (n − 1) × d&lt;/strong&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-6" value="&lt;div&gt;Abb.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Where&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;a = First term&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;d = Common difference&lt;/span&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;n = number of terms&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;a&lt;sub&gt;n&lt;/sub&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;&amp;nbsp;= nth term&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+          <mxGeometry x="100" y="200" width="160" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
