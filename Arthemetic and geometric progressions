@@ -1,35 +1,113 @@
-<mxfile host="app.diagrams.net" modified="2020-10-03T17:06:09.352Z" agent="5.0 (X11)" etag="SUNWFB2tz6MN7aHlAf5U" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-03T19:03:16.541Z" agent="5.0 (X11)" etag="16ZQ8Eekv31zrhBJ0lt1" version="13.7.7" type="github">
   <diagram id="FavlOHwS8RhdiEVBbatS" name="Page-1">
-    <mxGraphModel dx="1108" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1262" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UxAqlSmJzFTxJQ8XRc5Q-1" target="UxAqlSmJzFTxJQ8XRc5Q-4">
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UxAqlSmJzFTxJQ8XRc5Q-1" target="UxAqlSmJzFTxJQ8XRc5Q-4" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-1" value="AP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" width="120" height="40" as="geometry" />
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-1" value="&lt;div&gt;Arithmetic&lt;/div&gt;&lt;div&gt;Progression&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-2" value="HP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-3" value="GP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UxAqlSmJzFTxJQ8XRc5Q-4" target="UxAqlSmJzFTxJQ8XRc5Q-5">
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UxAqlSmJzFTxJQ8XRc5Q-3" target="UxAqlSmJzFTxJQ8XRc5Q-20" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-4" value="&lt;span style=&quot;font-weight: 400&quot;&gt;a, a + d, a + 2d, a + 3d, a + 4d, ………. ,a + (n – 1) d&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="60" width="300" height="40" as="geometry" />
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-3" value="&lt;div&gt;Geometric&lt;/div&gt;&lt;div&gt;Progression&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="480" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UxAqlSmJzFTxJQ8XRc5Q-5" target="UxAqlSmJzFTxJQ8XRc5Q-6">
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UxAqlSmJzFTxJQ8XRc5Q-4" target="UxAqlSmJzFTxJQ8XRc5Q-5" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-5" value="&lt;h3&gt;nth Term of an AP&lt;/h3&gt;&lt;div&gt;&lt;strong&gt;a&lt;sub&gt;n&lt;/sub&gt; = a + (n − 1) × d&lt;/strong&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="120" width="200" height="60" as="geometry" />
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-4" value="&lt;span style=&quot;font-weight: 400&quot;&gt;a, a + d, a + 2d, a + 3d, a + 4d, ………. ,a + (n – 1) d&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="150" y="60" width="300" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-6" value="&lt;div&gt;Abb.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Where&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;a = First term&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;d = Common difference&lt;/span&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;n = number of terms&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;a&lt;sub&gt;n&lt;/sub&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;&amp;nbsp;= nth term&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
-          <mxGeometry x="100" y="200" width="160" height="180" as="geometry" />
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UxAqlSmJzFTxJQ8XRc5Q-5" target="UxAqlSmJzFTxJQ8XRc5Q-6" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UxAqlSmJzFTxJQ8XRc5Q-5" target="UxAqlSmJzFTxJQ8XRc5Q-11" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-5" value="&lt;h3&gt;&lt;u&gt;nth Term of an AP&lt;/u&gt;&lt;/h3&gt;&lt;div&gt;&lt;strong&gt;a&lt;sub&gt;n&lt;/sub&gt; = a + (n − 1) × d&lt;/strong&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="200" y="120" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-6" value="&lt;div&gt;Abb.&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;Where&amp;nbsp;&lt;/span&gt;&lt;br&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;a = First term&lt;/span&gt;&lt;/p&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;d = Common difference&lt;/span&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;p&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;n = number of terms&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;a&lt;sub&gt;n&lt;/sub&gt;&lt;span style=&quot;font-weight: 400&quot;&gt;&amp;nbsp;= nth term&lt;/span&gt;&lt;/p&gt;&lt;/div&gt;&lt;div&gt;s = sum&lt;br&gt;&lt;/div&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="470" y="110" width="160" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UxAqlSmJzFTxJQ8XRc5Q-11" target="UxAqlSmJzFTxJQ8XRc5Q-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UxAqlSmJzFTxJQ8XRc5Q-11" target="UxAqlSmJzFTxJQ8XRc5Q-14" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-11" value="&lt;h3&gt;&lt;u&gt;Sum of N Terms of AP&lt;/u&gt;&lt;/h3&gt;&lt;div&gt;`s=n/2[2a+(n-1)d]`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="200" y="210" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UxAqlSmJzFTxJQ8XRc5Q-14" target="UxAqlSmJzFTxJQ8XRc5Q-16" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-14" value="&lt;h3&gt;&lt;u&gt;Sum of AP when the Last Term is Given&lt;/u&gt;&lt;/h3&gt;&lt;div&gt;&lt;b&gt;`S&amp;nbsp; = n/2 (first.term +l@st.term)`&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="170" y="320" width="260" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UxAqlSmJzFTxJQ8XRc5Q-16" target="UxAqlSmJzFTxJQ8XRc5Q-17" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-16" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;u&gt;&lt;b&gt;Sum of n natural numbers&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;`s=(n(n+1))/2`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="170" y="460" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UxAqlSmJzFTxJQ8XRc5Q-17" target="UxAqlSmJzFTxJQ8XRc5Q-25" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-17" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;u&gt;&lt;b&gt;Sum of squares of n natural numbers&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/div&gt;`s=(n(n+1)(2n+1))/6`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="170" y="550" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UxAqlSmJzFTxJQ8XRc5Q-20" target="UxAqlSmJzFTxJQ8XRc5Q-21" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-20" value="&lt;span class=&quot;larger&quot;&gt;a, ar, ar&lt;sup&gt;2&lt;/sup&gt;, ar&lt;sup&gt;3&lt;/sup&gt;, ... &lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="480" y="60" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UxAqlSmJzFTxJQ8XRc5Q-21" target="UxAqlSmJzFTxJQ8XRc5Q-29" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-21" value="&lt;h3&gt;&lt;u&gt;nth Term of an GP&lt;/u&gt;&lt;/h3&gt;&lt;div&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span class=&quot;large&quot;&gt;a&lt;sub&gt;n&lt;/sub&gt; = ar&lt;sup&gt;(n-1)&lt;/sup&gt;&lt;/span&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="440" y="120" width="200" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-24" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Sum of 1st n odd number&lt;/font&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;span style=&quot;left: 154.42px ; top: 1018.27px ; font-size: 18.4px ; font-family: sans-serif ; transform: scalex(0.925782)&quot;&gt;S=n&lt;sup&gt;2&lt;/sup&gt;&lt;/span&gt;&lt;span style=&quot;left: 194.822px ; top: 1019.49px ; font-size: 10.8px ; font-family: sans-serif&quot;&gt;&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="170" y="800" width="260" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UxAqlSmJzFTxJQ8XRc5Q-25" target="UxAqlSmJzFTxJQ8XRc5Q-24" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-25" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;sum of the cubes of first n natural number&lt;/font&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;$$\left[ \dfrac{n\left( n+1\right) }{2}\right] ^{2}$$&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="170" y="640" width="260" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-28" value="&lt;u&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;When r &amp;lt; 1&lt;/b&gt;&lt;/font&gt;&lt;/u&gt;&lt;br&gt;&lt;div&gt;`S_n = a [( 1 – r^n) / ( 1 – r )]` &lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="330" y="270" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UxAqlSmJzFTxJQ8XRc5Q-29" target="UxAqlSmJzFTxJQ8XRc5Q-28" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UxAqlSmJzFTxJQ8XRc5Q-29" target="UxAqlSmJzFTxJQ8XRc5Q-30" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UxAqlSmJzFTxJQ8XRc5Q-29" target="UxAqlSmJzFTxJQ8XRc5Q-33" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-29" value="&lt;u&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Sum of the series&lt;/font&gt;&lt;/b&gt;&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="480" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-30" value="&lt;u&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;&lt;b&gt;When r &amp;gt; 1&lt;/b&gt;&lt;/font&gt;&lt;/u&gt;&lt;br&gt;&lt;div&gt;`S_n = a [( r^n – 1 ) / ( r – 1 )]`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="620" y="270" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="UxAqlSmJzFTxJQ8XRc5Q-33" target="UxAqlSmJzFTxJQ8XRc5Q-35" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-33" value="&lt;div&gt;&lt;u&gt;&lt;b&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;Sum of infinite geometric series&lt;/font&gt;&lt;/b&gt;&lt;/u&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="440" y="380" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UxAqlSmJzFTxJQ8XRc5Q-35" value="`s_oo=a/(1-r)`" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="440" y="450" width="200" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
