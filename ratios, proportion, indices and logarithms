@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-01T05:08:36.504Z" agent="5.0 (X11)" etag="2QOZXFQgcqtlV8ik8DUl" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-01T05:46:02.252Z" agent="5.0 (X11)" etag="Bh_y0UUc4izguuJVf8xm" version="13.8.8" type="github">
   <diagram id="xcwD3t5h9NolAbcyiK7o" name="Page-1">
     <mxGraphModel dx="1108" dy="1523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -205,8 +205,8 @@
         <mxCell id="qWCqLKku4dENuW1zEgNj-71" value="Base change&lt;br&gt;$$\log _{b}\left( C\right) =\dfrac {1}{\log _{c}\left( b\right) }$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="510" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="o9cSCaxzizBKtFsfsJZx-1" value="&lt;div&gt;$$\log _{base}answer=power$$&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;example:&lt;/div&gt;&lt;div&gt;$$2^{4}=16$$&lt;/div&gt;&lt;div&gt;$$\log _{2}16=4$$&lt;br&gt;&lt;/div&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
-          <mxGeometry x="830" width="230" height="160" as="geometry" />
+        <mxCell id="o9cSCaxzizBKtFsfsJZx-1" value="&lt;div&gt;$$\log _{base}answer=power$$&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;example:&lt;/div&gt;&lt;div&gt;$$2^{4}=16$$&lt;/div&gt;&lt;div&gt;$$\log _{2}16=4$$&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;when base is not written its default base is 10&lt;br&gt;&lt;/div&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+          <mxGeometry x="900" width="280" height="240" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
