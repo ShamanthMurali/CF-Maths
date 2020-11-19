@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-09-25T19:30:20.847Z" agent="5.0 (X11)" etag="c5MFAL3RGU4HWqcetmPS" version="13.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T06:15:14.505Z" agent="5.0 (X11)" etag="zoBvd7QpbQbHCs211Rgk" version="13.10.0" type="github">
   <diagram id="m3vRAbNjEsPrULfPmAWC" name="Page-1">
     <mxGraphModel dx="1108" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -86,15 +86,6 @@
         <mxCell id="wwk0Ucj14MwwfENBV-_T-15" value="Pie  Chart" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="640" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wwk0Ucj14MwwfENBV-_T-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wwk0Ucj14MwwfENBV-_T-29" target="wwk0Ucj14MwwfENBV-_T-36" edge="1" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wwk0Ucj14MwwfENBV-_T-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wwk0Ucj14MwwfENBV-_T-29" target="wwk0Ucj14MwwfENBV-_T-37" edge="1" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wwk0Ucj14MwwfENBV-_T-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wwk0Ucj14MwwfENBV-_T-29" target="wwk0Ucj14MwwfENBV-_T-38" edge="1" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="wwk0Ucj14MwwfENBV-_T-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="wwk0Ucj14MwwfENBV-_T-30" target="wwk0Ucj14MwwfENBV-_T-29" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -121,21 +112,6 @@
         </mxCell>
         <mxCell id="wwk0Ucj14MwwfENBV-_T-35" value="ii)   Mailed  questionnaire  method" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="220" y="340" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wwk0Ucj14MwwfENBV-_T-36" value="a)  Personal  Interview" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="360" y="340" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wwk0Ucj14MwwfENBV-_T-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wwk0Ucj14MwwfENBV-_T-37" target="wwk0Ucj14MwwfENBV-_T-44" edge="1" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="wwk0Ucj14MwwfENBV-_T-37" value="&lt;div&gt;b)  Indirect&lt;br&gt;&lt;/div&gt;&lt;div&gt;Interview &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="500" y="340" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wwk0Ucj14MwwfENBV-_T-38" value="c) Telephone Interview" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="640" y="340" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="wwk0Ucj14MwwfENBV-_T-44" value="In case of theft the police get information from witness." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="500" y="400" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="wwk0Ucj14MwwfENBV-_T-46" value="high non responses" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
           <mxGeometry x="90" y="340" width="110" height="40" as="geometry" />
@@ -321,14 +297,38 @@
         <mxCell id="wwk0Ucj14MwwfENBV-_T-122" value="&lt;span class=&quot;ILfuVd NA6bn&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;The &lt;b&gt;cumulative frequency&lt;/b&gt; is calculated by adding each &lt;b&gt;frequency&lt;/b&gt; from a &lt;b&gt;frequency&lt;/b&gt; distribution table to the sum of its predecessors.&lt;/span&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#2A2A2A;" parent="1" vertex="1" visible="0">
           <mxGeometry x="70" y="745" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="NwMCcPwC52pxLx1Byxsv-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn1.byjus.com/wp-content/uploads/2019/06/word-image1.jpeg;" vertex="1" parent="1">
-          <mxGeometry x="600" y="160" width="520" height="320" as="geometry" />
+        <mxCell id="NwMCcPwC52pxLx1Byxsv-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn1.byjus.com/wp-content/uploads/2019/06/word-image1.jpeg;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="370" y="150" width="520" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="NwMCcPwC52pxLx1Byxsv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="NwMCcPwC52pxLx1Byxsv-2" target="NwMCcPwC52pxLx1Byxsv-1">
+        <mxCell id="NwMCcPwC52pxLx1Byxsv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NwMCcPwC52pxLx1Byxsv-2" target="NwMCcPwC52pxLx1Byxsv-1" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="NwMCcPwC52pxLx1Byxsv-2" value="Parts of a table" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="NwMCcPwC52pxLx1Byxsv-2" value="Parts of a table" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="570" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wwk0Ucj14MwwfENBV-_T-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wwk0Ucj14MwwfENBV-_T-29" target="wwk0Ucj14MwwfENBV-_T-36" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wwk0Ucj14MwwfENBV-_T-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wwk0Ucj14MwwfENBV-_T-29" target="wwk0Ucj14MwwfENBV-_T-37" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wwk0Ucj14MwwfENBV-_T-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wwk0Ucj14MwwfENBV-_T-29" target="wwk0Ucj14MwwfENBV-_T-38" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wwk0Ucj14MwwfENBV-_T-36" value="a)  Personal  Interview" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="360" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wwk0Ucj14MwwfENBV-_T-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wwk0Ucj14MwwfENBV-_T-37" target="wwk0Ucj14MwwfENBV-_T-44" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wwk0Ucj14MwwfENBV-_T-37" value="&lt;div&gt;b)  Indirect&lt;br&gt;&lt;/div&gt;&lt;div&gt;Interview &lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="500" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wwk0Ucj14MwwfENBV-_T-38" value="c) Telephone Interview" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="640" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wwk0Ucj14MwwfENBV-_T-44" value="In case of theft the police get information from witness." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="500" y="400" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
