@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T13:51:14.064Z" agent="5.0 (X11)" etag="n7ARTPJwWNwwswdCHaqQ" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T13:57:52.450Z" agent="5.0 (X11)" etag="ARTK-c4SMdR3toRPN8OF" version="13.10.0" type="github">
   <diagram id="m3vRAbNjEsPrULfPmAWC" name="Page-1">
     <mxGraphModel dx="1108" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -332,6 +332,35 @@
         </mxCell>
         <mxCell id="NwMCcPwC52pxLx1Byxsv-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn1.byjus.com/wp-content/uploads/2019/06/word-image1.jpeg;" parent="1" vertex="1" visible="0">
           <mxGeometry x="370" y="150" width="520" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ9IH_tWZpTsIRyRxg_Y-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQ9IH_tWZpTsIRyRxg_Y-2" target="GQ9IH_tWZpTsIRyRxg_Y-4" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;Different types of&lt;/div&gt;&lt;div&gt;series&lt;br&gt;&lt;/div&gt;" treeRoot="1" id="GQ9IH_tWZpTsIRyRxg_Y-2">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="940" y="80" width="120" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="GQ9IH_tWZpTsIRyRxg_Y-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GQ9IH_tWZpTsIRyRxg_Y-4" target="GQ9IH_tWZpTsIRyRxg_Y-5" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ9IH_tWZpTsIRyRxg_Y-4" value="&lt;div&gt;individual series&lt;/div&gt;&lt;div&gt;x=2,4,5,7,2,5.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="940" y="140" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ9IH_tWZpTsIRyRxg_Y-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQ9IH_tWZpTsIRyRxg_Y-5" target="GQ9IH_tWZpTsIRyRxg_Y-6" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ9IH_tWZpTsIRyRxg_Y-5" value="&lt;div&gt;Discrete series&lt;/div&gt;&lt;div&gt;x=2,4,5,7,2,5.&lt;/div&gt;&lt;div&gt;F=4,5,7,2,6,2.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="940" y="200" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ9IH_tWZpTsIRyRxg_Y-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GQ9IH_tWZpTsIRyRxg_Y-6" target="GQ9IH_tWZpTsIRyRxg_Y-7" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ9IH_tWZpTsIRyRxg_Y-6" value="&lt;div&gt;Discrete series&lt;/div&gt;&lt;div&gt;x=2,4,5,7,2,5.&lt;/div&gt;&lt;div&gt;F=4,5,7,2,6,2.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="940" y="270" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ9IH_tWZpTsIRyRxg_Y-7" value="&lt;div&gt;Continues series&lt;/div&gt;&lt;div&gt;X=1-5,5-10,10-15&lt;/div&gt;&lt;div&gt;F=&amp;nbsp;&amp;nbsp; &amp;nbsp; 4&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 5&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; 7&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="940" y="340" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
