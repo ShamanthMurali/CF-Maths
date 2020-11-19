@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T14:22:08.649Z" agent="5.0 (X11)" etag="nDs-o_hTgXTpBCBJ1nc-" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T14:28:58.492Z" agent="5.0 (X11)" etag="FeASRoRYL8ZVHkk5kh1s" version="13.10.0" type="github">
   <diagram id="m3vRAbNjEsPrULfPmAWC" name="Page-1">
     <mxGraphModel dx="1108" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -13,8 +13,14 @@
         <mxCell id="wwk0Ucj14MwwfENBV-_T-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wwk0Ucj14MwwfENBV-_T-1" target="wwk0Ucj14MwwfENBV-_T-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="GQ9IH_tWZpTsIRyRxg_Y-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wwk0Ucj14MwwfENBV-_T-1" target="NwMCcPwC52pxLx1Byxsv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ9IH_tWZpTsIRyRxg_Y-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wwk0Ucj14MwwfENBV-_T-1" target="GQ9IH_tWZpTsIRyRxg_Y-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wwk0Ucj14MwwfENBV-_T-1" value="Data" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="290" width="120" height="40" as="geometry" />
+          <mxGeometry x="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wwk0Ucj14MwwfENBV-_T-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="wwk0Ucj14MwwfENBV-_T-6" target="wwk0Ucj14MwwfENBV-_T-10" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -267,6 +273,9 @@
         <mxCell id="wwk0Ucj14MwwfENBV-_T-125" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.513;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="wwk0Ucj14MwwfENBV-_T-105" target="wwk0Ucj14MwwfENBV-_T-111" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="GQ9IH_tWZpTsIRyRxg_Y-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="wwk0Ucj14MwwfENBV-_T-105" target="GQ9IH_tWZpTsIRyRxg_Y-22" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="wwk0Ucj14MwwfENBV-_T-105" value="line chart" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#2A2A2A;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" parent="1" vertex="1" visible="0">
           <mxGeometry x="280" y="320" width="160" height="160" as="geometry" />
         </mxCell>
@@ -333,8 +342,8 @@
         <mxCell id="wwk0Ucj14MwwfENBV-_T-44" value="In case of theft the police get information from witness." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="500" y="400" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GQ9IH_tWZpTsIRyRxg_Y-1" value="&lt;div&gt;Frequency density&lt;/div&gt;&lt;div&gt;=class frequency/class interval&lt;br&gt;&lt;/div&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
-          <mxGeometry x="710" y="80" width="210" height="80" as="geometry" />
+        <mxCell id="GQ9IH_tWZpTsIRyRxg_Y-1" value="&lt;div&gt;Frequency density&lt;/div&gt;&lt;div&gt;=class frequency/class interval&lt;br&gt;&lt;/div&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="500" y="610" width="210" height="80" as="geometry" />
         </mxCell>
         <mxCell id="NwMCcPwC52pxLx1Byxsv-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn1.byjus.com/wp-content/uploads/2019/06/word-image1.jpeg;" parent="1" vertex="1" visible="0">
           <mxGeometry x="370" y="150" width="520" height="320" as="geometry" />
@@ -344,7 +353,7 @@
         </mxCell>
         <UserObject label="&lt;div&gt;Different types of&lt;/div&gt;&lt;div&gt;series&lt;br&gt;&lt;/div&gt;" treeRoot="1" id="GQ9IH_tWZpTsIRyRxg_Y-2">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" collapsed="1" parent="1">
-            <mxGeometry x="940" y="80" width="120" height="40" as="geometry" />
+            <mxGeometry x="710" y="80" width="120" height="40" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="GQ9IH_tWZpTsIRyRxg_Y-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GQ9IH_tWZpTsIRyRxg_Y-4" target="GQ9IH_tWZpTsIRyRxg_Y-5" visible="0">
@@ -374,6 +383,9 @@
         <mxCell id="GQ9IH_tWZpTsIRyRxg_Y-12" value="&lt;div&gt;We can obtain median and quartile with ogives.&lt;/div&gt;&lt;div&gt;when ogives intersect we get second quartile&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#2A2A2A;" vertex="1" visible="0" parent="1">
           <mxGeometry x="520" y="773.75" width="130" height="72.5" as="geometry" />
         </mxCell>
+        <mxCell id="GQ9IH_tWZpTsIRyRxg_Y-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GQ9IH_tWZpTsIRyRxg_Y-14" target="GQ9IH_tWZpTsIRyRxg_Y-1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GQ9IH_tWZpTsIRyRxg_Y-14" value="we can obtain mode with histogram." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="500" y="530" width="120" height="40" as="geometry" />
         </mxCell>
@@ -385,6 +397,9 @@
         </mxCell>
         <mxCell id="GQ9IH_tWZpTsIRyRxg_Y-20" value="in &quot;inclusive series&quot; they dont repeat." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
           <mxGeometry x="1220" y="310" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="GQ9IH_tWZpTsIRyRxg_Y-22" value="very small fluctuations are presented by false base line." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" visible="0" parent="1">
+          <mxGeometry x="120" y="375" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
