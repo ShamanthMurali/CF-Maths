@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-19T13:50:53.065Z" agent="5.0 (X11)" etag="mJH6BdUQ8HK0UMTKilJO" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-19T13:51:14.064Z" agent="5.0 (X11)" etag="n7ARTPJwWNwwswdCHaqQ" version="13.10.0" type="github">
   <diagram id="m3vRAbNjEsPrULfPmAWC" name="Page-1">
     <mxGraphModel dx="1108" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -297,9 +297,6 @@
         <mxCell id="wwk0Ucj14MwwfENBV-_T-122" value="&lt;span class=&quot;ILfuVd NA6bn&quot;&gt;&lt;span class=&quot;hgKElc&quot;&gt;The &lt;b&gt;cumulative frequency&lt;/b&gt; is calculated by adding each &lt;b&gt;frequency&lt;/b&gt; from a &lt;b&gt;frequency&lt;/b&gt; distribution table to the sum of its predecessors.&lt;/span&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#2A2A2A;" parent="1" vertex="1" visible="0">
           <mxGeometry x="70" y="745" width="120" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="NwMCcPwC52pxLx1Byxsv-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn1.byjus.com/wp-content/uploads/2019/06/word-image1.jpeg;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="370" y="150" width="520" height="320" as="geometry" />
-        </mxCell>
         <mxCell id="NwMCcPwC52pxLx1Byxsv-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="NwMCcPwC52pxLx1Byxsv-2" target="NwMCcPwC52pxLx1Byxsv-1" edge="1" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -332,6 +329,9 @@
         </mxCell>
         <mxCell id="GQ9IH_tWZpTsIRyRxg_Y-1" value="&lt;div&gt;Frequency density&lt;/div&gt;&lt;div&gt;=class frequency/class interval&lt;br&gt;&lt;/div&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
           <mxGeometry x="710" y="80" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="NwMCcPwC52pxLx1Byxsv-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cdn1.byjus.com/wp-content/uploads/2019/06/word-image1.jpeg;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="370" y="150" width="520" height="320" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
