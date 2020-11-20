@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T10:08:15.636Z" agent="5.0 (X11)" etag="y5cmDRmA9oOcYK6WtN47" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T10:16:01.451Z" agent="5.0 (X11)" etag="QpgkN0_sadw5zPUk8WI8" version="13.10.0" type="github">
   <diagram id="WC1z_uLL7UFrh4qvaJFy" name="Page-1">
     <mxGraphModel dx="2277" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -395,7 +395,7 @@
         </mxCell>
         <mxCell id="oRr1KUddC1984QZvBOD9-8" value="calculation" style="swimlane;swimlaneFillColor=#363636;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="95" y="405.5" width="120" height="23" as="geometry">
-            <mxRectangle x="95" y="405.5" width="380" height="594.5" as="alternateBounds" />
+            <mxRectangle x="95" y="405.5" width="380" height="640" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="J48PYYNNLqn6degSEcE2-19" value="individual&amp;nbsp; series&lt;br&gt;&amp;gt;arrange (X) assending or dessending&lt;br&gt;&amp;gt;median =&lt;br&gt;$$\dfrac {n+1}{2}$$&lt;br&gt;th term." style="rounded=1;whiteSpace=wrap;html=1;" parent="oRr1KUddC1984QZvBOD9-8" vertex="1">
@@ -421,14 +421,14 @@
             <mxPoint x="402.5" y="350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HAw9vpj-jYrwpOkD9if1-7" value="continues series&lt;br&gt;&amp;gt;C.F&lt;br&gt;&amp;gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left&quot;&gt;∑f=n&lt;br&gt;&lt;/span&gt;&amp;gt;n/2th term in C.F&lt;br&gt;&amp;gt;median =&lt;br&gt;$$l+\dfrac {\dfrac {n}{2}-cf_{p}}{f}\times i&lt;br&gt;$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="oRr1KUddC1984QZvBOD9-8" vertex="1">
-          <mxGeometry x="33.13" y="414.5" width="125" height="165.5" as="geometry" />
+        <mxCell id="HAw9vpj-jYrwpOkD9if1-7" value="continues series&lt;br&gt;&amp;gt;C.F&lt;br&gt;&amp;gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left&quot;&gt;∑f=n&lt;br&gt;&lt;/span&gt;&lt;div&gt;&amp;gt;n/2th term in C.F&lt;/div&gt;&lt;div&gt;&amp;gt;the class with highest frequency will be chosen for lower limit and cfp &lt;br&gt;&lt;/div&gt;&amp;gt;median =&lt;br&gt;$$l+\dfrac {\dfrac {n}{2}-cf_{p}}{f}\times i&lt;br&gt;$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="oRr1KUddC1984QZvBOD9-8" vertex="1">
+          <mxGeometry x="7.19" y="414.5" width="176.87" height="205.5" as="geometry" />
         </mxCell>
         <mxCell id="HAw9vpj-jYrwpOkD9if1-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="oRr1KUddC1984QZvBOD9-8" source="HAw9vpj-jYrwpOkD9if1-1" target="HAw9vpj-jYrwpOkD9if1-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HAw9vpj-jYrwpOkD9if1-9" value="Abb.&lt;br&gt;&amp;gt;i= interval&lt;br&gt;l= lower limit&lt;br&gt;eg. 10-20,&lt;br&gt;here i=10 and l =10&lt;br&gt;&amp;gt;cfp=previous C.F&lt;br&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="oRr1KUddC1984QZvBOD9-8" vertex="1">
-          <mxGeometry x="188.75" y="444.75" width="130" height="105" as="geometry" />
+          <mxGeometry x="220" y="464.75" width="130" height="105" as="geometry" />
         </mxCell>
         <mxCell id="HAw9vpj-jYrwpOkD9if1-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="oRr1KUddC1984QZvBOD9-8" source="HAw9vpj-jYrwpOkD9if1-7" target="HAw9vpj-jYrwpOkD9if1-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
