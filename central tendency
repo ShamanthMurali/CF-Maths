@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T10:16:01.451Z" agent="5.0 (X11)" etag="QpgkN0_sadw5zPUk8WI8" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T10:34:05.706Z" agent="5.0 (X11)" etag="bgAppYi0x4n_EPJH7zCZ" version="13.10.0" type="github">
   <diagram id="WC1z_uLL7UFrh4qvaJFy" name="Page-1">
     <mxGraphModel dx="2277" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -307,7 +307,7 @@
         </mxCell>
         <mxCell id="Dt_3FBqbvyjVbk1zjscz-48" value="calculation" style="swimlane;startSize=23;swimlaneFillColor=#363636;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="285" y="405.5" width="120" height="20" as="geometry">
-            <mxRectangle x="285" y="405.5" width="490" height="945" as="alternateBounds" />
+            <mxRectangle x="285" y="405.5" width="510" height="945" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="HAw9vpj-jYrwpOkD9if1-13" value="individual series&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Dt_3FBqbvyjVbk1zjscz-48" vertex="1">
@@ -352,38 +352,38 @@
         <mxCell id="HAw9vpj-jYrwpOkD9if1-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Dt_3FBqbvyjVbk1zjscz-48" source="HAw9vpj-jYrwpOkD9if1-19" target="HAw9vpj-jYrwpOkD9if1-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HAw9vpj-jYrwpOkD9if1-26" value="Quartile&lt;br&gt;&amp;gt;arrange X&lt;br&gt;&amp;gt;C.F&lt;br&gt;$$Q_{k}=k\left( \dfrac {n+1}{4}\right)&amp;nbsp;$$&lt;br&gt;&amp;gt;verify in C.F" style="rounded=1;whiteSpace=wrap;html=1;" parent="Dt_3FBqbvyjVbk1zjscz-48" vertex="1">
-          <mxGeometry x="179" y="216.86" width="120" height="140" as="geometry" />
+        <mxCell id="HAw9vpj-jYrwpOkD9if1-26" value="Quartile&lt;br&gt;&lt;div&gt;&amp;gt;arrange X&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left&quot;&gt;&amp;gt;n=∑f&lt;/span&gt;&lt;/div&gt;&amp;gt;C.F&lt;br&gt;$$Q_{k}=k\left( \dfrac {n+1}{4}\right)&amp;nbsp;$$&lt;br&gt;&amp;gt;verify in C.F" style="rounded=1;whiteSpace=wrap;html=1;" parent="Dt_3FBqbvyjVbk1zjscz-48" vertex="1">
+          <mxGeometry x="169" y="211.86" width="141" height="163.14" as="geometry" />
         </mxCell>
         <mxCell id="HAw9vpj-jYrwpOkD9if1-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="Dt_3FBqbvyjVbk1zjscz-48" source="HAw9vpj-jYrwpOkD9if1-14" target="HAw9vpj-jYrwpOkD9if1-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HAw9vpj-jYrwpOkD9if1-27" value="decile&lt;br&gt;&amp;gt;arrange X&lt;br&gt;&amp;gt;C.F&lt;br&gt;$$Q_{k}=k\left( \dfrac {n+1}{10}\right)&amp;nbsp;$$&lt;br&gt;&amp;gt;verify in C.F" style="rounded=1;whiteSpace=wrap;html=1;" parent="Dt_3FBqbvyjVbk1zjscz-48" vertex="1">
-          <mxGeometry x="179" y="371.86" width="120" height="140" as="geometry" />
+        <mxCell id="HAw9vpj-jYrwpOkD9if1-27" value="decile&lt;br&gt;&lt;div&gt;&amp;gt;arrange X&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left&quot;&gt;&amp;gt;n=∑f&lt;/span&gt;&lt;/div&gt;&amp;gt;C.F&lt;br&gt;$$Q_{k}=k\left( \dfrac {n+1}{10}\right)&amp;nbsp;$$&lt;br&gt;&amp;gt;verify in C.F" style="rounded=1;whiteSpace=wrap;html=1;" parent="Dt_3FBqbvyjVbk1zjscz-48" vertex="1">
+          <mxGeometry x="169" y="396.36" width="141" height="168.14" as="geometry" />
         </mxCell>
         <mxCell id="HAw9vpj-jYrwpOkD9if1-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="Dt_3FBqbvyjVbk1zjscz-48" source="HAw9vpj-jYrwpOkD9if1-26" target="HAw9vpj-jYrwpOkD9if1-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HAw9vpj-jYrwpOkD9if1-28" value="percentile&lt;br&gt;&amp;gt;arrange X&lt;br&gt;&amp;gt;C.F&lt;br&gt;$$Q_{k}=k\left( \dfrac {n+1}{100}\right)&amp;nbsp;$$&lt;br&gt;&amp;gt;verify in C.F" style="rounded=1;whiteSpace=wrap;html=1;" parent="Dt_3FBqbvyjVbk1zjscz-48" vertex="1">
-          <mxGeometry x="179" y="531.86" width="120" height="140" as="geometry" />
+        <mxCell id="HAw9vpj-jYrwpOkD9if1-28" value="percentile&lt;br&gt;&lt;div&gt;&amp;gt;arrange X&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left&quot;&gt;&amp;gt;n=∑f&lt;/span&gt;&lt;/div&gt;&amp;gt;C.F&lt;br&gt;$$Q_{k}=k\left( \dfrac {n+1}{100}\right)&amp;nbsp;$$&lt;br&gt;&amp;gt;verify in C.F" style="rounded=1;whiteSpace=wrap;html=1;" parent="Dt_3FBqbvyjVbk1zjscz-48" vertex="1">
+          <mxGeometry x="169" y="584.5" width="141" height="178.14" as="geometry" />
         </mxCell>
         <mxCell id="HAw9vpj-jYrwpOkD9if1-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Dt_3FBqbvyjVbk1zjscz-48" source="HAw9vpj-jYrwpOkD9if1-27" target="HAw9vpj-jYrwpOkD9if1-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HAw9vpj-jYrwpOkD9if1-32" value="Quartile&lt;br&gt;&amp;gt;C.F&lt;br&gt;$$Q_{k}=k\left( \dfrac {n}{4}\right)&amp;nbsp;$$&lt;br&gt;$$l+\dfrac {K\left( \dfrac {n}{4}\right) -cf_{p}}{f}\times i$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="Dt_3FBqbvyjVbk1zjscz-48" vertex="1">
-          <mxGeometry x="332" y="231.86" width="150" height="205" as="geometry" />
+        <mxCell id="HAw9vpj-jYrwpOkD9if1-32" value="&lt;div&gt;Quartile&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left&quot;&gt;&amp;gt;n=∑f&lt;/span&gt;&lt;/div&gt;&amp;gt;C.F&lt;br&gt;$$Q_{k}=k\left( \dfrac {n}{4}\right)&amp;nbsp;$$&lt;br&gt;$$l+\dfrac {K\left( \dfrac {n}{4}\right) -cf_{p}}{f}\times i$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="Dt_3FBqbvyjVbk1zjscz-48" vertex="1">
+          <mxGeometry x="328.5" y="231.86" width="158" height="205" as="geometry" />
         </mxCell>
         <mxCell id="Dt_3FBqbvyjVbk1zjscz-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Dt_3FBqbvyjVbk1zjscz-48" source="HAw9vpj-jYrwpOkD9if1-15" target="HAw9vpj-jYrwpOkD9if1-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Dt_3FBqbvyjVbk1zjscz-2" value="decile&lt;br&gt;&amp;gt;C.F&lt;br&gt;$$Q_{k}=k\left( \dfrac {n}{10}\right)&amp;nbsp;$$&lt;br&gt;$$l+\dfrac {K\left( \dfrac {n}{10}\right) -cf_{p}}{f}\times i$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="Dt_3FBqbvyjVbk1zjscz-48" vertex="1">
+        <mxCell id="Dt_3FBqbvyjVbk1zjscz-2" value="&lt;div&gt;decile&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left&quot;&gt;&amp;gt;n=∑f&lt;/span&gt;&lt;/div&gt;&amp;gt;C.F&lt;br&gt;$$Q_{k}=k\left( \dfrac {n}{10}\right)&amp;nbsp;$$&lt;br&gt;$$l+\dfrac {K\left( \dfrac {n}{10}\right) -cf_{p}}{f}\times i$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="Dt_3FBqbvyjVbk1zjscz-48" vertex="1">
           <mxGeometry x="324" y="461.86" width="166" height="205" as="geometry" />
         </mxCell>
         <mxCell id="Dt_3FBqbvyjVbk1zjscz-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="Dt_3FBqbvyjVbk1zjscz-48" source="HAw9vpj-jYrwpOkD9if1-32" target="Dt_3FBqbvyjVbk1zjscz-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Dt_3FBqbvyjVbk1zjscz-3" value="percentile&lt;br&gt;&amp;gt;C.F&lt;br&gt;$$Q_{k}=k\left( \dfrac {n}{100}\right)&amp;nbsp;$$&lt;br&gt;$$l+\dfrac {K\left( \dfrac {n}{100}\right) -cf_{p}}{f}\times i$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="Dt_3FBqbvyjVbk1zjscz-48" vertex="1">
-          <mxGeometry x="315" y="694.5" width="184" height="205" as="geometry" />
+        <mxCell id="Dt_3FBqbvyjVbk1zjscz-3" value="&lt;div&gt;percentile&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left&quot;&gt;&amp;gt;n=∑f&lt;/span&gt;&lt;/div&gt;&amp;gt;C.F&lt;br&gt;$$Q_{k}=k\left( \dfrac {n}{100}\right)&amp;nbsp;$$&lt;br&gt;$$l+\dfrac {K\left( \dfrac {n}{100}\right) -cf_{p}}{f}\times i$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="Dt_3FBqbvyjVbk1zjscz-48" vertex="1">
+          <mxGeometry x="315" y="694.5" width="185" height="205" as="geometry" />
         </mxCell>
         <mxCell id="Dt_3FBqbvyjVbk1zjscz-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="Dt_3FBqbvyjVbk1zjscz-48" source="Dt_3FBqbvyjVbk1zjscz-2" target="Dt_3FBqbvyjVbk1zjscz-3" edge="1">
           <mxGeometry relative="1" as="geometry">
