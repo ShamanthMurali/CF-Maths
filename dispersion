@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T07:17:19.311Z" agent="5.0 (X11)" etag="SeMgt4GvEL94kzP6q6dO" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T07:23:14.296Z" agent="5.0 (X11)" etag="qulfA1_Z6K96zB9nSP1p" version="13.10.0" type="github">
   <diagram id="z_luEzbzn9lySE42o66R" name="Page-1">
     <mxGraphModel dx="2433" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6Tjt-c76KOfWKA8Q8VGl-2" value="SD from deviation =&lt;br&gt;$$\sigma =\sqrt {\dfrac {\sum d^{2}}{n}-\left( \dfrac {\sum d}{n}\right) ^{2}}$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="832.5" y="610" width="177" height="100" as="geometry" />
+          <mxGeometry x="827.25" y="610" width="187.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="-Q1iqpG3UeOx6bS0FuiD-50" value="SD of first n natural numbers =&lt;br&gt;$$\sqrt {\dfrac {n^{2}-1}{12}}$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="831" y="480" width="180" height="90" as="geometry" />
@@ -98,7 +98,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OHOKGi1xM0Lt3lUJL7EN-1" value="$$Q_{1}=\dfrac {\left( n+1\right) }{4}$$&lt;br&gt;$$Q_{3}=\left( \dfrac {\left( n+1\right) }{4}\right) \times 3$$&lt;br&gt;$$QD=\dfrac {Q_{3}-Q_{1}}{2}$$&lt;br&gt;coff of QD =&lt;br&gt;$$\dfrac {Q_{3}-Q_{1}}{Q_{3}+Q_{1}}\times 100$$&lt;br&gt;Alternative formula for coefficient of QD&lt;br&gt;$$\dfrac {QD}{median}\times100&lt;br&gt;$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="41" y="208.5" width="160" height="391.5" as="geometry" />
+          <mxGeometry x="41" y="208.5" width="160" height="411.5" as="geometry" />
         </mxCell>
         <mxCell id="-Q1iqpG3UeOx6bS0FuiD-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="OHOKGi1xM0Lt3lUJL7EN-10" target="-Q1iqpG3UeOx6bS0FuiD-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -122,7 +122,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j0SVAXAZgDnpM3j8j-SA-1" value="For normal and skewed distribution&amp;nbsp;&lt;br&gt;$$QD=\dfrac {2}{3}SD$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="41" y="630" width="160" height="90" as="geometry" />
+          <mxGeometry x="41" y="640" width="160" height="100" as="geometry" />
         </mxCell>
         <mxCell id="j0SVAXAZgDnpM3j8j-SA-3" value="standard deviation &amp;gt; mean deviation &amp;gt; quartile deviation" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="1" vertex="1">
           <mxGeometry x="371" y="370" width="420" height="40" as="geometry" />
@@ -131,7 +131,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j0SVAXAZgDnpM3j8j-SA-4" value="SD =&lt;br&gt;$$\sigma =\sqrt {\dfrac {\sum x^{2}}{n}-\left( \dfrac {\sum x}{n}\right) ^{2}}$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="832.5" y="740" width="177" height="100" as="geometry" />
+          <mxGeometry x="827.25" y="740" width="187.5" height="100" as="geometry" />
         </mxCell>
         <mxCell id="j0SVAXAZgDnpM3j8j-SA-6" value="SD=&lt;br&gt;$$SD=\dfrac {Range}{2}$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="832.5" y="870" width="177" height="100" as="geometry" />
