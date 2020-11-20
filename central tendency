@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T07:12:18.771Z" agent="5.0 (X11)" etag="j5-1zyiQ_oFzdOqC8-XK" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T10:08:15.636Z" agent="5.0 (X11)" etag="y5cmDRmA9oOcYK6WtN47" version="13.10.0" type="github">
   <diagram id="WC1z_uLL7UFrh4qvaJFy" name="Page-1">
-    <mxGraphModel dx="2473" dy="498" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="2277" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -401,8 +401,8 @@
         <mxCell id="J48PYYNNLqn6degSEcE2-19" value="individual&amp;nbsp; series&lt;br&gt;&amp;gt;arrange (X) assending or dessending&lt;br&gt;&amp;gt;median =&lt;br&gt;$$\dfrac {n+1}{2}$$&lt;br&gt;th term." style="rounded=1;whiteSpace=wrap;html=1;" parent="oRr1KUddC1984QZvBOD9-8" vertex="1">
           <mxGeometry x="18.75" y="34.5" width="153.75" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="J48PYYNNLqn6degSEcE2-21" value="Point Adjestment&lt;br&gt;if the term comes in point value&amp;nbsp;&lt;br&gt;&amp;gt; n&#39;th tern+o.value((n+1)th term - n&#39;th term" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="oRr1KUddC1984QZvBOD9-8" vertex="1">
-          <mxGeometry x="195" y="57" width="117.5" height="115" as="geometry" />
+        <mxCell id="J48PYYNNLqn6degSEcE2-21" value="Point Adjestment&lt;br&gt;if the term comes in point value&amp;nbsp;&lt;br&gt;&amp;gt; n&#39;th tern+0.value((n+1)th term - n&#39;th term" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" parent="oRr1KUddC1984QZvBOD9-8" vertex="1">
+          <mxGeometry x="195" y="57" width="155" height="115" as="geometry" />
         </mxCell>
         <mxCell id="HAw9vpj-jYrwpOkD9if1-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="oRr1KUddC1984QZvBOD9-8" source="J48PYYNNLqn6degSEcE2-19" target="J48PYYNNLqn6degSEcE2-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
