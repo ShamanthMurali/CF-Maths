@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T10:34:05.706Z" agent="5.0 (X11)" etag="bgAppYi0x4n_EPJH7zCZ" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-20T10:45:03.195Z" agent="5.0 (X11)" etag="Bj6V_wGuHauAHGRRB4nU" version="13.10.0" type="github">
   <diagram id="WC1z_uLL7UFrh4qvaJFy" name="Page-1">
     <mxGraphModel dx="2277" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -392,6 +392,9 @@
         </mxCell>
         <mxCell id="Dt_3FBqbvyjVbk1zjscz-50" value="" style="aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image;image=img/lib/active_directory/generic_node.svg;" parent="Dt_3FBqbvyjVbk1zjscz-48" vertex="1">
           <mxGeometry x="214" y="43" width="50" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="JP0-QjnqYQe0TyirfuIK-1" value="&lt;div&gt;note:&lt;/div&gt;&lt;div&gt;in a quartile Q2,Q4 dosent work because they cancel out so they are not usually calculated&lt;br&gt;&lt;/div&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="Dt_3FBqbvyjVbk1zjscz-48">
+          <mxGeometry x="30.5" y="784.5" width="159.5" height="115.5" as="geometry" />
         </mxCell>
         <mxCell id="oRr1KUddC1984QZvBOD9-8" value="calculation" style="swimlane;swimlaneFillColor=#363636;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="95" y="405.5" width="120" height="23" as="geometry">
