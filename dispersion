@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-11-20T07:23:14.296Z" agent="5.0 (X11)" etag="qulfA1_Z6K96zB9nSP1p" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-21T00:34:25.271Z" agent="5.0 (X11)" etag="cHWCw2nmhrTdwhvc0q_k" version="13.10.0" type="github">
   <diagram id="z_luEzbzn9lySE42o66R" name="Page-1">
-    <mxGraphModel dx="2433" dy="604" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1958" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -141,7 +141,7 @@
         </mxCell>
         <mxCell id="-Q1iqpG3UeOx6bS0FuiD-16" value="coff of variation" style="swimlane;labelBackgroundColor=none;startSize=23;fillColor=#2B2B2B;gradientColor=none;strokeColor=#FFFFFF;swimlaneFillColor=#363636;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="857.25" y="297" width="127.5" height="23" as="geometry">
-            <mxRectangle x="766.25" y="287" width="730" height="420" as="alternateBounds" />
+            <mxRectangle x="857.25" y="297" width="730" height="420" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-Q1iqpG3UeOx6bS0FuiD-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="-Q1iqpG3UeOx6bS0FuiD-16" source="-Q1iqpG3UeOx6bS0FuiD-17" target="-Q1iqpG3UeOx6bS0FuiD-19" edge="1">
@@ -237,7 +237,7 @@
         </mxCell>
         <mxCell id="-Q1iqpG3UeOx6bS0FuiD-1" value="properties" style="swimlane;labelBackgroundColor=none;startSize=23;fillColor=#2B2B2B;gradientColor=none;strokeColor=#FFFFFF;swimlaneFillColor=#363636;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="944" y="208.5" width="104.5" height="23" as="geometry">
-            <mxRectangle x="853" y="198.5" width="360" height="570" as="alternateBounds" />
+            <mxRectangle x="944" y="208.5" width="426" height="570" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="-Q1iqpG3UeOx6bS0FuiD-2" value="List" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;strokeColor=#FFFFFF;" parent="-Q1iqpG3UeOx6bS0FuiD-1" vertex="1">
@@ -261,7 +261,7 @@
           <mxGeometry x="220" y="204.5" width="120" height="27" as="geometry" />
         </mxCell>
         <mxCell id="-Q1iqpG3UeOx6bS0FuiD-13" value="$$\sigma _{12}=\sqrt {\dfrac {n_{1}\sigma ^{2}_{1}+n_{2}\sigma ^{2}_{2}+n_{1}d^{2}_{1}+n_{2}d^{2}_{2}}{n_{1}+n_{2}}}$$&lt;br&gt;Abb.&lt;br&gt;$$n_{1},n_{2}=no-of-items-in-series-1-and-2$$&lt;br&gt;$$\sigma _{1},\sigma _{2}=SD-of-series-1-and-2$$&lt;br&gt;$$d_{1}=\overline {x}_{12}-\overline {x}_{1}/d_{2}=\overline {x}_{12}-\overline {x}_{2}&lt;br&gt;$$&lt;br&gt;$$\overline {X_{12}}=\dfrac {n_{1}\overline {X_{1}}+n_{2}\overline {X_{2}}}{n_{1}+n_{2}}$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="-Q1iqpG3UeOx6bS0FuiD-1" vertex="1">
-          <mxGeometry x="10" y="231.5" width="350" height="338.5" as="geometry" />
+          <mxGeometry x="10" y="231.5" width="410" height="338.5" as="geometry" />
         </mxCell>
         <mxCell id="-Q1iqpG3UeOx6bS0FuiD-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="-Q1iqpG3UeOx6bS0FuiD-1" source="-Q1iqpG3UeOx6bS0FuiD-4" target="-Q1iqpG3UeOx6bS0FuiD-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -274,17 +274,17 @@
         </mxCell>
         <mxCell id="OHOKGi1xM0Lt3lUJL7EN-10" value="calculation" style="swimlane;labelBackgroundColor=none;startSize=23;fillColor=#2B2B2B;gradientColor=none;strokeColor=#FFFFFF;swimlaneFillColor=#363636;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="801" y="208.5" width="100" height="23" as="geometry">
-            <mxRectangle x="710" y="198.5" width="200" height="496" as="alternateBounds" />
+            <mxRectangle x="801" y="208.5" width="200" height="511.5" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OHOKGi1xM0Lt3lUJL7EN-11" value="individual series&lt;br&gt;&amp;gt;X²&lt;br&gt;&amp;gt;&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left&quot;&gt;X̄(mean)&lt;br&gt;&lt;/span&gt;$$\sqrt {\dfrac {\sum x^{2}}{n}-\left( \overline {x}\right) ^{2}}$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="OHOKGi1xM0Lt3lUJL7EN-10" vertex="1">
-          <mxGeometry x="10" y="34" width="180" height="116" as="geometry" />
+          <mxGeometry x="10" y="34" width="180" height="126" as="geometry" />
         </mxCell>
         <mxCell id="OHOKGi1xM0Lt3lUJL7EN-12" value="discrete series&lt;br&gt;&amp;gt;FX&lt;br&gt;&amp;gt;mean&lt;br&gt;&amp;gt;X²&lt;br&gt;&amp;gt;FX²&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;$$\sqrt {\dfrac {\sum fx^{2}}{\sum f}-\left( \overline {x}\right) ^{2}}$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="OHOKGi1xM0Lt3lUJL7EN-10" vertex="1">
-          <mxGeometry x="10" y="166" width="180" height="144" as="geometry" />
+          <mxGeometry x="10" y="166" width="180" height="154" as="geometry" />
         </mxCell>
         <mxCell id="OHOKGi1xM0Lt3lUJL7EN-13" value="continues series&lt;br&gt;&amp;gt;X(midpoint)&lt;br&gt;&amp;gt;FX&lt;br&gt;&amp;gt;mean&lt;br&gt;&amp;gt;X²&lt;br&gt;&amp;gt;FX²&lt;span style=&quot;font-family: &amp;#34;arial&amp;#34; , sans-serif ; font-size: 14px ; text-align: left&quot;&gt;&lt;br&gt;&lt;/span&gt;$$\sqrt {\dfrac {\sum fx^{2}}{\sum f}-\left( \overline {x}\right) ^{2}}$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="OHOKGi1xM0Lt3lUJL7EN-10" vertex="1">
-          <mxGeometry x="10" y="326" width="180" height="164" as="geometry" />
+          <mxGeometry x="10" y="326" width="180" height="174" as="geometry" />
         </mxCell>
         <mxCell id="gbufB4zQR2tiBbvJkffB-50" value="Through mode" style="swimlane;labelBackgroundColor=none;startSize=23;fillColor=#2B2B2B;gradientColor=none;strokeColor=#FFFFFF;swimlaneFillColor=#363636;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="651" y="208.5" width="130" height="23" as="geometry">
