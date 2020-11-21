@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-11-21T04:30:28.103Z" agent="5.0 (X11)" etag="iyNQ5Tq8Ivk4NGdL1lyp" version="13.10.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-21T14:14:56.626Z" agent="5.0 (X11)" etag="T-sO_TM_TwZ8MHO-Clx4" version="13.10.0" type="github">
   <diagram id="WC1z_uLL7UFrh4qvaJFy" name="Page-1">
-    <mxGraphModel dx="2277" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="2092" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BgsF0vAHzZKtbtvuW-T9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3Lny2SoOf44yvnoeSM8D-1" target="BgsF0vAHzZKtbtvuW-T9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3Lny2SoOf44yvnoeSM8D-1" value="Mean - Mode = 3( Mean - median )" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-139" y="690" width="278" height="30" as="geometry" />
         </mxCell>
@@ -182,7 +185,7 @@
         </mxCell>
         <mxCell id="MqYcxmuejyE_DksaU0Q2-14" value="relationship between AM HM &amp; GM" style="swimlane;labelBackgroundColor=none;startSize=23;fillColor=#2B2B2B;gradientColor=none;strokeColor=#FFFFFF;swimlaneFillColor=#363636;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="-420" y="592.75" width="250" height="23" as="geometry">
-            <mxRectangle x="-420" y="592.75" width="260" height="217.25" as="alternateBounds" />
+            <mxRectangle x="-420" y="592.75" width="260" height="247.25" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="MqYcxmuejyE_DksaU0Q2-16" value="$$AM\times HM=\left( GM\right) ^{2}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MqYcxmuejyE_DksaU0Q2-14" vertex="1">
@@ -197,7 +200,7 @@
         <mxCell id="MqYcxmuejyE_DksaU0Q2-25" value="$$GM=\sqrt {ab}$$" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MqYcxmuejyE_DksaU0Q2-14" vertex="1">
           <mxGeometry x="80" y="140" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XJ9heqO_SrVkGqhQO7cP-1" value="&lt;b&gt;AM&amp;gt;GM&amp;gt;HM&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MqYcxmuejyE_DksaU0Q2-14">
+        <mxCell id="XJ9heqO_SrVkGqhQO7cP-1" value="&lt;b&gt;AM&amp;gt;GM&amp;gt;HM&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="MqYcxmuejyE_DksaU0Q2-14" vertex="1">
           <mxGeometry x="75" y="177.25" width="130" height="32.75" as="geometry" />
         </mxCell>
         <mxCell id="3Lny2SoOf44yvnoeSM8D-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2A5rrqchTdL0El-M0iDZ-24" target="3Lny2SoOf44yvnoeSM8D-1" edge="1">
@@ -669,6 +672,9 @@
               <mxPoint x="351" y="182" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="BgsF0vAHzZKtbtvuW-T9-2" value="Mode = 3 Median - 2&amp;nbsp; Mean" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="740" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
