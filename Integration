@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T05:07:08.003Z" agent="5.0 (X11)" version="13.10.6" etag="2oxpnxA2VLxAWhJ3f4qn" type="github"><diagram id="9QTZ3ffMvIK-h8stf9HW">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-03T05:50:03.424Z" agent="5.0 (X11)" etag="VQv69spEw-CBLmdJ4dGw" version="13.10.6" type="github">
+  <diagram id="9QTZ3ffMvIK-h8stf9HW" name="Page-1">
+    <mxGraphModel dx="633" dy="242" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-1" target="cMlS1ZFZU7LZiXhWBIXD-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-1" value="&lt;div&gt;Integration&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-2" target="cMlS1ZFZU7LZiXhWBIXD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-2" value="Formulas" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-3" target="cMlS1ZFZU7LZiXhWBIXD-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-3" value="$$\int x^{n}dx=\dfrac{x^{n+1}}{n+1}$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="140" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-4" target="cMlS1ZFZU7LZiXhWBIXD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-4" value="$$\int \dfrac{1}{x}dx=\log x$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="240" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-5" target="cMlS1ZFZU7LZiXhWBIXD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-5" value="$$\int e^{ax}dx=\dfrac{e^{ax}}{a}$$" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="340" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-6" value="&lt;div&gt;$$\int a\cdot dx=ax$$&lt;/div&gt;Abb. a = constant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="440" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-13" target="cMlS1ZFZU7LZiXhWBIXD-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-13" value="Method of substitution" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="80" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-14" target="cMlS1ZFZU7LZiXhWBIXD-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-14" value="&lt;div&gt;Step 1: Take the complex part as &quot;t&quot;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-15" target="cMlS1ZFZU7LZiXhWBIXD-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-15" value="&lt;div&gt;Step 2: Differentiate the inside parts of &quot;t&quot;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="220" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-16" target="cMlS1ZFZU7LZiXhWBIXD-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-16" value="&lt;div&gt;Step 3: convert the form from Dt to Dx&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-17" value="&lt;div&gt;Step 4: Replace the t part in the original function.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="340" width="200" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
