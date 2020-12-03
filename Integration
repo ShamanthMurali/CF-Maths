@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T10:13:15.765Z" agent="5.0 (X11)" etag="rv7AgiO9VFYNKhkuvhvw" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T10:14:00.496Z" agent="5.0 (X11)" etag="U9vp27PViv9hNjsRaMo6" version="13.10.6" type="github">
   <diagram id="9QTZ3ffMvIK-h8stf9HW" name="Page-1">
     <mxGraphModel dx="1108" dy="1523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -174,8 +174,8 @@
             <mxPoint x="730" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SJI3da7vo12awg5e7spw-32" value="WARNING: IF YOU CANT SOLVE INTEGRATION DERIVATE THE OPTIONS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="-60" width="360" height="40" as="geometry" />
+        <mxCell id="SJI3da7vo12awg5e7spw-32" value="&lt;div&gt;WARNING:&lt;/div&gt;&lt;div&gt; IF YOU CANT SOLVE INTEGRATION THEN&amp;nbsp; DERIVATE THE OPTIONS.&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-70" width="360" height="50" as="geometry" />
         </mxCell>
         <UserObject label="Method of &quot;Definites&quot;" link="https://youtu.be/24skNwewnL4" id="SJI3da7vo12awg5e7spw-33">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
