@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T10:14:00.496Z" agent="5.0 (X11)" etag="U9vp27PViv9hNjsRaMo6" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T10:14:22.603Z" agent="5.0 (X11)" etag="8K30iPMKlF-tXE9XR_Ki" version="13.10.6" type="github">
   <diagram id="9QTZ3ffMvIK-h8stf9HW" name="Page-1">
     <mxGraphModel dx="1108" dy="1523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="1" shadow="0">
       <root>
@@ -49,97 +49,25 @@
         <mxCell id="cMlS1ZFZU7LZiXhWBIXD-6" value="&lt;div&gt;$$\int a\cdot dx=ax$$&lt;/div&gt;Abb. a = constant" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="150" y="440" width="140" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-13" target="cMlS1ZFZU7LZiXhWBIXD-14" edge="1" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-13" target="cMlS1ZFZU7LZiXhWBIXD-15" edge="1" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-13" target="cMlS1ZFZU7LZiXhWBIXD-27" edge="1" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-14" target="cMlS1ZFZU7LZiXhWBIXD-22" edge="1" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-14" value="&lt;div&gt;Step 1: Take the complex part as &quot;t&quot;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1" visible="0">
-          <mxGeometry x="320" y="160" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-15" target="cMlS1ZFZU7LZiXhWBIXD-16" edge="1" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-15" value="&lt;div&gt;Step 2: Differentiate the inside parts of &quot;t&quot;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="320" y="220" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-16" target="cMlS1ZFZU7LZiXhWBIXD-17" edge="1" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-16" value="&lt;div&gt;Step 3: convert the form from Dt to Dx&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="320" y="280" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-17" target="cMlS1ZFZU7LZiXhWBIXD-42" edge="1" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-17" value="&lt;div&gt;Step 4: Solve with the original function&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="320" y="340" width="200" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.426;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-22" target="cMlS1ZFZU7LZiXhWBIXD-23" edge="1" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-22" value="&lt;div&gt;Case 1:&lt;/div&gt;&lt;div&gt;$$\int \dfrac{8x^{2}}{\left( x^{3}+2\right) ^{3}}dx$$&lt;/div&gt;&lt;div&gt;Here, `t=x^3+2`&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="540" y="120" width="120" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-23" value="&lt;div&gt;Case 2:&lt;/div&gt;&lt;div&gt;$$\int \left( 8x+5\right) ^{2}\left( 3x^{2}+9\right) ^{3}dx$$&lt;/div&gt;&lt;div&gt;when we have two comlexes&lt;/div&gt;&lt;div&gt;t is the one with larger power&lt;br&gt;&lt;/div&gt;&lt;div&gt;Here, `t=3x^2+9`&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="680" y="120" width="190" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-31" value="$$\int \left( 5x+2\right) ^{6}dx$$" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-27" target="cMlS1ZFZU7LZiXhWBIXD-30" edge="1" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="cMlS1ZFZU7LZiXhWBIXD-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="180" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-30" target="cMlS1ZFZU7LZiXhWBIXD-33" edge="1" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-30" value="Here, `t=5x+2`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="590" y="160" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cMlS1ZFZU7LZiXhWBIXD-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-33" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-33" target="cMlS1ZFZU7LZiXhWBIXD-36" edge="1" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-33" value="$$\dfrac{dt\left( 5x+2\right) }{dx}=5$$" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="590" y="220" width="160" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="cMlS1ZFZU7LZiXhWBIXD-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-36" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-36" target="cMlS1ZFZU7LZiXhWBIXD-39" edge="1" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-36" value="since, `(Dt)/(Dx)=5` so, `Dx=(Dt)/5`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="560" y="280" width="220" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="cMlS1ZFZU7LZiXhWBIXD-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="520" y="360" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-39" target="cMlS1ZFZU7LZiXhWBIXD-44" edge="1" visible="0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-39" value="Hence, $$\int t^{6}\cdot \dfrac{dt}{5}=\dfrac{t^{7}}{7}\times \dfrac{1}{5}$$" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="560" y="340" width="220" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-42" value="&lt;div&gt;Step 5: Replace the t part in the original function.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="320" y="400" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="cMlS1ZFZU7LZiXhWBIXD-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-44" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -149,15 +77,6 @@
               <mxPoint x="540" y="420" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-44" value="Therefore, $$\dfrac{t^{7}}{7\cdot 5}\Rightarrow \dfrac{\left( 5x+2\right) ^{7}}{35}$$" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
-          <mxGeometry x="560" y="440" width="220" height="90" as="geometry" />
-        </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-13" value="Method of &quot;substitution&quot;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="340" y="80" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-27" value="Example" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1" visible="0">
-          <mxGeometry x="560" y="80" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SJI3da7vo12awg5e7spw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SJI3da7vo12awg5e7spw-13">
           <mxGeometry relative="1" as="geometry">
@@ -261,6 +180,87 @@
         </mxCell>
         <mxCell id="SJI3da7vo12awg5e7spw-25" value="&lt;div&gt;`e^x(x-1)`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="780" y="720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-13" target="cMlS1ZFZU7LZiXhWBIXD-14" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-13" target="cMlS1ZFZU7LZiXhWBIXD-15" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-13" target="cMlS1ZFZU7LZiXhWBIXD-27" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-14" target="cMlS1ZFZU7LZiXhWBIXD-22" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-14" value="&lt;div&gt;Step 1: Take the complex part as &quot;t&quot;&lt;/div&gt;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1" visible="0">
+          <mxGeometry x="320" y="160" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-15" target="cMlS1ZFZU7LZiXhWBIXD-16" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-15" value="&lt;div&gt;Step 2: Differentiate the inside parts of &quot;t&quot;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="320" y="220" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-16" target="cMlS1ZFZU7LZiXhWBIXD-17" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-16" value="&lt;div&gt;Step 3: convert the form from Dt to Dx&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="320" y="280" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-17" target="cMlS1ZFZU7LZiXhWBIXD-42" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-17" value="&lt;div&gt;Step 4: Solve with the original function&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="320" y="340" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.001;entryY=0.426;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-22" target="cMlS1ZFZU7LZiXhWBIXD-23" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-22" value="&lt;div&gt;Case 1:&lt;/div&gt;&lt;div&gt;$$\int \dfrac{8x^{2}}{\left( x^{3}+2\right) ^{3}}dx$$&lt;/div&gt;&lt;div&gt;Here, `t=x^3+2`&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="540" y="120" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-23" value="&lt;div&gt;Case 2:&lt;/div&gt;&lt;div&gt;$$\int \left( 8x+5\right) ^{2}\left( 3x^{2}+9\right) ^{3}dx$$&lt;/div&gt;&lt;div&gt;when we have two comlexes&lt;/div&gt;&lt;div&gt;t is the one with larger power&lt;br&gt;&lt;/div&gt;&lt;div&gt;Here, `t=3x^2+9`&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="680" y="120" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-31" value="$$\int \left( 5x+2\right) ^{6}dx$$" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-27" target="cMlS1ZFZU7LZiXhWBIXD-30" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-30" target="cMlS1ZFZU7LZiXhWBIXD-33" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-30" value="Here, `t=5x+2`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="590" y="160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-33" target="cMlS1ZFZU7LZiXhWBIXD-36" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-33" value="$$\dfrac{dt\left( 5x+2\right) }{dx}=5$$" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="590" y="220" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-36" target="cMlS1ZFZU7LZiXhWBIXD-39" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-36" value="since, `(Dt)/(Dx)=5` so, `Dx=(Dt)/5`" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="560" y="280" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-39" target="cMlS1ZFZU7LZiXhWBIXD-44" edge="1" visible="0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-39" value="Hence, $$\int t^{6}\cdot \dfrac{dt}{5}=\dfrac{t^{7}}{7}\times \dfrac{1}{5}$$" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="560" y="340" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-42" value="&lt;div&gt;Step 5: Replace the t part in the original function.&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="320" y="400" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-44" value="Therefore, $$\dfrac{t^{7}}{7\cdot 5}\Rightarrow \dfrac{\left( 5x+2\right) ^{7}}{35}$$" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
+          <mxGeometry x="560" y="440" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-13" value="Method of &quot;substitution&quot;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="340" y="80" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-27" value="Example" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1" visible="0">
+          <mxGeometry x="560" y="80" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
