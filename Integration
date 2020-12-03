@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-03T09:51:06.427Z" agent="5.0 (X11)" etag="z490vmCGncjume60FrI3" version="13.10.6" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-03T10:12:59.923Z" agent="5.0 (X11)" etag="qCO_ahKazxh_gyb_6wcM" version="13.10.6" type="github">
   <diagram id="9QTZ3ffMvIK-h8stf9HW" name="Page-1">
-    <mxGraphModel dx="764" dy="292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="1" shadow="0">
+    <mxGraphModel dx="1108" dy="1523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="840" pageHeight="1100" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,6 +11,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SJI3da7vo12awg5e7spw-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-1" target="SJI3da7vo12awg5e7spw-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SJI3da7vo12awg5e7spw-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-1" target="SJI3da7vo12awg5e7spw-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SJI3da7vo12awg5e7spw-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cMlS1ZFZU7LZiXhWBIXD-1" target="SJI3da7vo12awg5e7spw-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cMlS1ZFZU7LZiXhWBIXD-1" value="&lt;div&gt;Integration&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -147,6 +153,46 @@
         <mxCell id="cMlS1ZFZU7LZiXhWBIXD-44" value="Therefore, $$\dfrac{t^{7}}{7\cdot 5}\Rightarrow \dfrac{\left( 5x+2\right) ^{7}}{35}$$" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1" visible="0">
           <mxGeometry x="560" y="440" width="220" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-13" value="Method of &quot;substitution&quot;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="340" y="80" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-27" value="Example" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1" visible="0">
+          <mxGeometry x="560" y="80" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="SJI3da7vo12awg5e7spw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SJI3da7vo12awg5e7spw-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJI3da7vo12awg5e7spw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SJI3da7vo12awg5e7spw-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="305" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJI3da7vo12awg5e7spw-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SJI3da7vo12awg5e7spw-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="730" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="SJI3da7vo12awg5e7spw-32" value="WARNING: IF YOU CANT SOLVE INTEGRATION DERIVATE THE OPTIONS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="-60" width="360" height="40" as="geometry" />
+        </mxCell>
+        <UserObject label="Method of &quot;Definites&quot;" link="https://youtu.be/24skNwewnL4" id="SJI3da7vo12awg5e7spw-33">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="760" y="80" width="160" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="SJI3da7vo12awg5e7spw-35" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
+          <mxGeometry x="900" y="90" width="30" height="30" as="geometry" />
+        </mxCell>
+        <UserObject label="Method of &quot;Partial fractions&quot;" link="https://youtu.be/hK_J7_3b2Qk" id="SJI3da7vo12awg5e7spw-37">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
+            <mxGeometry x="960" y="80" width="160" height="40" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="SJI3da7vo12awg5e7spw-39" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.link;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="90" width="30" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="SJI3da7vo12awg5e7spw-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SJI3da7vo12awg5e7spw-1" target="SJI3da7vo12awg5e7spw-3" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -156,17 +202,11 @@
         <mxCell id="SJI3da7vo12awg5e7spw-1" value="Method of &quot;by parts&quot;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" vertex="1" collapsed="1" parent="1">
           <mxGeometry x="560" y="80" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-13" value="Method of &quot;substitution&quot;" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1">
-          <mxGeometry x="340" y="80" width="160" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="SJI3da7vo12awg5e7spw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SJI3da7vo12awg5e7spw-3" target="SJI3da7vo12awg5e7spw-8" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SJI3da7vo12awg5e7spw-3" value="&lt;div&gt;Used for &lt;br&gt;&lt;/div&gt;&lt;div&gt;`int(uv)Dx`&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Multiplication) &lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="580" y="140" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="cMlS1ZFZU7LZiXhWBIXD-27" value="Example" style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;strokeColor=#f0f0f0;fillColor=#2a2a2a;" parent="1" vertex="1" collapsed="1" visible="0">
-          <mxGeometry x="560" y="80" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SJI3da7vo12awg5e7spw-6" value="&lt;div&gt;Formula&lt;/div&gt;&lt;div&gt;`FintS-int[(Dy(F))/(Dx)intS]`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="550" y="400" width="180" height="80" as="geometry" />
@@ -186,18 +226,8 @@
         <mxCell id="SJI3da7vo12awg5e7spw-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SJI3da7vo12awg5e7spw-13" target="SJI3da7vo12awg5e7spw-16" visible="0">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SJI3da7vo12awg5e7spw-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SJI3da7vo12awg5e7spw-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="700" y="175" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="SJI3da7vo12awg5e7spw-13" value="&lt;div&gt;Used for &lt;br&gt;&lt;/div&gt;&lt;div&gt;`intxe^xDx`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="780" y="140" width="120" height="70" as="geometry" />
-        </mxCell>
-        <mxCell id="SJI3da7vo12awg5e7spw-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SJI3da7vo12awg5e7spw-16">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="305" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="SJI3da7vo12awg5e7spw-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="SJI3da7vo12awg5e7spw-16" target="SJI3da7vo12awg5e7spw-21" visible="0">
           <mxGeometry relative="1" as="geometry" />
@@ -207,11 +237,6 @@
         </mxCell>
         <mxCell id="SJI3da7vo12awg5e7spw-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SJI3da7vo12awg5e7spw-21" target="SJI3da7vo12awg5e7spw-22" visible="0">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="SJI3da7vo12awg5e7spw-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SJI3da7vo12awg5e7spw-21">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="730" y="440" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="SJI3da7vo12awg5e7spw-21" value="&lt;div&gt;in the Formula&lt;/div&gt;&lt;div&gt;`x inte^x-int[(Dy(x))/(Dx)inte^x]`&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" visible="0" parent="1">
           <mxGeometry x="750" y="400" width="180" height="80" as="geometry" />
