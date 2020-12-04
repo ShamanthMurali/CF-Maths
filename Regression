@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T06:51:02.272Z" agent="5.0 (X11)" etag="yba9gSvEGegU-1gGjeJt" version="13.10.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T07:26:06.339Z" agent="5.0 (X11)" etag="2QeTBU6ZQ8dH5rDu_iJq" version="13.10.8" type="github">
   <diagram id="MIA2KySUsKaRVXOFwWyT" name="Page-1">
-    <mxGraphModel dx="1108" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+    <mxGraphModel dx="764" dy="292" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -41,7 +41,7 @@
         </mxCell>
         <mxCell id="kMVzM64mAZP07Rpd_m66-6" value="Calculation" style="swimlane;swimlaneFillColor=#333333;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;startSize=40;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="480" y="400" width="200" height="40" as="geometry">
-            <mxRectangle x="480" y="400" width="200" height="500" as="alternateBounds" />
+            <mxRectangle x="480" y="400" width="200" height="540" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kMVzM64mAZP07Rpd_m66-7" value="$$b_{xy}=\dfrac {n\sum xy-\sum x\sum y}{n\sum y^{2}-\left( \sum y\right) ^{2}}$$&lt;br&gt;$$b_{yx}=\dfrac {n\sum xy-\sum x\sum y}{n\sum x^{2}-\left( \sum x\right) ^{2}}$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="kMVzM64mAZP07Rpd_m66-6" vertex="1">
@@ -55,6 +55,12 @@
         </mxCell>
         <mxCell id="kMVzM64mAZP07Rpd_m66-11" value="$$r\sigma _{x}\sigma _{y}=covariance\left( x,y\right)&amp;nbsp;$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="kMVzM64mAZP07Rpd_m66-6" vertex="1">
           <mxGeometry x="10" y="460" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cn6CJ-Pc2yhga2dkMLnl-2" value="Abb.&lt;br&gt;&lt;div&gt;`sigma =` Standard deviation&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="kMVzM64mAZP07Rpd_m66-6">
+          <mxGeometry x="20" y="500" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Cn6CJ-Pc2yhga2dkMLnl-4" value="&lt;div&gt;both the regression lines x on y and y on x intersect at there means &lt;br&gt;&lt;/div&gt;&lt;div&gt;i.e (`overlinex, overliney`)&lt;/div&gt;" style="shape=note;strokeWidth=2;fontSize=14;size=9;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;" vertex="1" parent="1">
+          <mxGeometry x="700" y="245" width="240" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
