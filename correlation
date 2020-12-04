@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T09:48:26.447Z" agent="5.0 (X11)" etag="YPh0FhxEKh8O_D32BMe4" version="13.10.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T10:03:24.443Z" agent="5.0 (X11)" etag="ccV2nbIi7ZMs1X3BIH9l" version="13.10.8" type="github">
   <diagram id="lvt2AvyoI_tqJfmRTpT2" name="Page-1">
     <mxGraphModel dx="1108" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -77,7 +77,7 @@
             <mxRectangle x="935" y="377" width="425" height="243" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nEKAzhENuEYKQ6B82jKB-4" value="&amp;gt;Concurrent deviation&lt;br&gt;(this method involves attaching a positive sign for a x-value if this value is more than the previous value and assigning a negative value if this value is less than the previous value)&lt;br&gt;&amp;gt;r =&amp;nbsp;&lt;br&gt;$$r_{c}=\pm \sqrt {\pm \dfrac {\left( 2c-m\right) }{n}}$$&lt;br&gt;^Abb.&amp;nbsp;&lt;br&gt;c= number of positive signs&lt;br&gt;m=&#39;n&#39; number of items." style="rounded=1;whiteSpace=wrap;html=1;" parent="nEKAzhENuEYKQ6B82jKB-3" vertex="1">
+        <mxCell id="nEKAzhENuEYKQ6B82jKB-4" value="&amp;gt;Concurrent deviation&lt;br&gt;(this method involves attaching a positive sign for a x-value if this value is more than the previous value and assigning a negative value if this value is less than the previous value)&lt;br&gt;&amp;gt;r =&amp;nbsp;&lt;br&gt;$$r_{c}=\pm \sqrt {\pm \dfrac {\left( 2c-m\right) }{m}}$$&lt;br&gt;^Abb.&amp;nbsp;&lt;br&gt;c= number of positive signs&lt;br&gt;m=&#39;n-1&#39; number of items minus 1." style="rounded=1;whiteSpace=wrap;html=1;" parent="nEKAzhENuEYKQ6B82jKB-3" vertex="1">
           <mxGeometry x="10" y="30" width="410" height="210" as="geometry" />
         </mxCell>
         <mxCell id="edXLwW0AASA6v9MkMHL9-1" value="Container" style="swimlane;swimlaneFillColor=#333333;" parent="1" vertex="1" collapsed="1">
@@ -130,13 +130,13 @@
         <mxCell id="oxPFJ8eN1mq1ElXQ07By-1" value="Assumed mean method&lt;br&gt;&amp;gt;dx, dy (dx=x-A, dy=y-A)&lt;br&gt;&amp;gt;dx², dy², dx*dy&lt;br&gt;&amp;gt; r =&lt;br&gt;$$\dfrac {n\left( \sum dxdy\right) -\sum dx\sum dy}{\sqrt {n\left( \sum dx^{2}\right) -\left( \Sigma dx\right) ^{2}}\sqrt {n\left( \sum dy^{2}\right) -\left( \sum dy\right) ^{2}}}$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="yImdqqFY_4zEo_N10xjt-8" vertex="1">
           <mxGeometry x="335" y="37" width="335" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="zqdpj2bCiC_Y9m4faery-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="yImdqqFY_4zEo_N10xjt-8" source="2SdksKS-MBvjA2MGx87e-12" target="zqdpj2bCiC_Y9m4faery-1">
+        <mxCell id="zqdpj2bCiC_Y9m4faery-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="yImdqqFY_4zEo_N10xjt-8" source="2SdksKS-MBvjA2MGx87e-12" target="zqdpj2bCiC_Y9m4faery-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2SdksKS-MBvjA2MGx87e-12" value="if only the formula numbers are given&lt;br&gt;&amp;nbsp;&amp;gt; r =&lt;br&gt;$$\dfrac {\sum \left( x-\overline {x}\right) \left( y-\overline {y}\right) }{\sqrt {\sum \left( x-\overline {x}\right) ^{2}-\sum \left( y-\overline {y}\right) ^{2}}}$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="yImdqqFY_4zEo_N10xjt-8" vertex="1">
           <mxGeometry x="185" y="283" width="260" height="117" as="geometry" />
         </mxCell>
-        <mxCell id="zqdpj2bCiC_Y9m4faery-1" value="`r=sqrt(b_(xy)*b_(yx))`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yImdqqFY_4zEo_N10xjt-8">
+        <mxCell id="zqdpj2bCiC_Y9m4faery-1" value="`r=sqrt(b_(xy)*b_(yx))`" style="rounded=1;whiteSpace=wrap;html=1;" parent="yImdqqFY_4zEo_N10xjt-8" vertex="1">
           <mxGeometry x="247.5" y="423" width="135" height="44" as="geometry" />
         </mxCell>
       </root>
