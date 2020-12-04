@@ -1,1 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2020-05-02T06:52:13.967Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.129 Safari/537.36" etag="Qx7f8phWvu2BTmVGhwuf" version="13.0.5" type="google"><diagram id="MIA2KySUsKaRVXOFwWyT" name="Page-1">3VrbcqM4EP0a12YfUsXFxpnHsSfJ1NZmL0lt9vKSUowM7AiEhbDxfP10SwJDAJuM42yyE9cYWi2p1ZejIyUjdx4X14Kk4Q33KRs5ll+M3E8jx7GdsQVfKNlqiTd2tSAQkW+UdoK76Cs1QtMvyCOfZg1FyTmTUdoULniS0IVsyIgQfNNUW3LWnDUlAW0J7haEtaV/Rr4MjdT2PuwaPtMoCM3UF85UN8SkUtaCLCQ+32iRWpx7OXLngnOpn+JiThk6r/SL9sBVT2tlmKCJHNLhy8391xtvHH/85zdrepv6D7HnnY+NbXJbLpj6sH7zyoUMecATwi530pngeeJTHNWCt53Oz5ynILRB+C+VcmuCSXLJQRTKmJnWtuWli3guFnSPuWUGEBFQuUfP5BiupTaB8cs15TGVYgsKgjIio3Uz1sSkTFDp7bwKD8axz3CyGXdNWG5mEjQQNMsinrT83/TuJowkvUuJ8soGSmygJ9dUSFrsXbtpnZi0sUyBlgW7qWV7qRLWEr3Ue3lvue8rJ52BOem9qZx0Wjl5B5iXnf39I4I1TWniZ/CECWoRH9MpymgMzjn7CzQ8BiudPQp4CqTy3hg/kzmjS3mGyXQOLxy6sSih8D6azraj6ScQCkwhnARmfXxAeaEbyq5Fu2vR7OqRGOsgeczS3dwtm9pWP11XVq344HoOG9W7nsOu6F5PLy7Yr4IL44smLjhWGxgqWR0YbO9UyDB5X8DgDgQG500Bg9sChrI8lhw8ABSKmFV7qxy5y+yeCp8kZCcoq4hmMgIapHY5iy9V2VE1tojII6OKjwlcBBI9WFlSTWz0ScJlSEWjjzYG1qbtKQv2jZVLtWceKpfT7aPvjNt5A8vFflv1Yk9aBSPpIkwiOEOAeJVjFXTwvGwTxYwk6PTy8SpibM4ZlARquPoftoNPpPH42HpWvuLBiDGSZtT/niyu3o/JYjPbLRzPSBKosn/OdG7HdJ79ZD7CJBUJkXSGCZy1olot9YhAtynT7yP3I1obRosQu2dqaYZdoFvRCP2kRIWiCVd9fEPFfTJPY1SbzLOVkJovKF5RGNYAmEpxohrZgE8PCQICMsMPmjvDomEZ+v+8g/MA1FK1nm7j4BSDnGaFhVU92X3zRojeAN3w/w+qh/5WHoKjDwRKKAWS6FEstQ/gScnaAlCoyGZ5nJrNQ/XbCJ4ELw30+2t6+CmqkceTjjTuOkNVpXQMKq3uf53Mb4PVT4Hzy/SPi+uriXvbQe9Nri6jxIevmJJqU5YbrtBydyS16Co3+3Y7GQxbVW86wlEC4cygvHXnlEeKKPQNXrYLmoIQIpFVBu2fzdgOVTTftnUxEkXvSER1xfhsK53jM6kDbwcm18BMcryBqWSfLJXahBBTaQGlG+jgoxfVhVk/pFhNdQ4nH/z2OYYfjV4u8fKumSj7k6HdniMhAZh7LNpta2hbQJvfkTiHxtUYp+A2XyPWKpT2l4IsDDwrDJ75HfisQbsHJGsDr/OugX098OOhgd9BIrvToZjonooQe61EnhO2yBk5lp/hQeSKxBHDtX6mbE0lsD/TYHgbsAf9XhtgaeEPghPDeoAMpYikivEJ/oV2qS6bNjgEf5oR/Q/p4tA7gheii0OnmzwFx1egi9NWttXKXVfv03JPkPTlyP4KdWlknqunrYaDpCaYXILAAfl57cap3l67n6p0h0GSppZH21gcsLE4aOMrED6vpx56M99uZmIH4bMvunbpk532PwxJN9GMJcYgCmLyUN5mqtDVpdtnZ8ueKfSO1RqjNWnx7sLfdTfaHf+n59aXu4awno83C65u1RJwXu2mW7Hrek2WAaqXLsbqNABzvFH/C0RxO+4Pu1PqZHzJbv/esryn2Dm7KtimyOTboGC+xq8/ThKjccfhrDNG3xEieN39aYDmJLs/sHAvvwE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-12-04T06:51:02.272Z" agent="5.0 (X11)" etag="yba9gSvEGegU-1gGjeJt" version="13.10.8" type="github">
+  <diagram id="MIA2KySUsKaRVXOFwWyT" name="Page-1">
+    <mxGraphModel dx="1108" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="kMVzM64mAZP07Rpd_m66-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kMVzM64mAZP07Rpd_m66-1" target="kMVzM64mAZP07Rpd_m66-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kMVzM64mAZP07Rpd_m66-1" value="regression" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="520" y="40" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kMVzM64mAZP07Rpd_m66-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kMVzM64mAZP07Rpd_m66-2" target="kMVzM64mAZP07Rpd_m66-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kMVzM64mAZP07Rpd_m66-2" value="Sales(Y) depends on advertisement(X)&lt;br&gt;$$\left( y-\overline {y}\right) =b_{yx}\left( x-\overline {x}\right)&amp;nbsp;$$&lt;br&gt;advertisement(X) depends on sales(Y)&lt;br&gt;$$\left( x-\overline {x}\right) =b_{xy}\left( y-\overline {y}\right)&amp;nbsp;$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="200" width="200" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="kMVzM64mAZP07Rpd_m66-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kMVzM64mAZP07Rpd_m66-3" target="kMVzM64mAZP07Rpd_m66-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kMVzM64mAZP07Rpd_m66-3" value="&lt;font face=&quot;Verdana&quot;&gt;estimation of one variable for a given value of another variable&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="120" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kMVzM64mAZP07Rpd_m66-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="kMVzM64mAZP07Rpd_m66-6" target="kMVzM64mAZP07Rpd_m66-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="kMVzM64mAZP07Rpd_m66-15" value="technical question" style="swimlane;swimlaneFillColor=#333333;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="480" y="480" width="200" height="40" as="geometry">
+            <mxRectangle x="480" y="480" width="230" height="610" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kMVzM64mAZP07Rpd_m66-12" value="Q: which is x on y / y on x ?&lt;br&gt;$$r=\pm \sqrt {b_{xy}\times b_{yx}}$$&lt;br&gt;(++=+ else -)&lt;br&gt;note:&lt;br&gt;$$-1\leq r\leq 1$$&lt;br&gt;if the &#39; r &#39; is greater than 1 or -1 your assumption is wrong" style="rounded=1;whiteSpace=wrap;html=1;" parent="kMVzM64mAZP07Rpd_m66-15" vertex="1">
+          <mxGeometry x="5" y="50" width="220" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="qVO5CRgqJg2N7U8GF53R-2" value="Q: find mean of two regression equation&lt;br&gt;&amp;gt;the intersection point of two regression point represents mean&lt;br&gt;&amp;gt;find x,y&lt;br&gt;x=x mean&lt;br&gt;and y=y mean" style="rounded=1;whiteSpace=wrap;html=1;" parent="kMVzM64mAZP07Rpd_m66-15" vertex="1">
+          <mxGeometry x="5" y="260" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qVO5CRgqJg2N7U8GF53R-3" value="Q:change in scale&lt;br&gt;note: change in orign dosent affect regression&lt;br&gt;&amp;gt;&lt;br&gt;u=a+bx&lt;br&gt;v=c+dy&lt;br&gt;&amp;gt;&lt;br&gt;$$b_{uv}=\dfrac {b}{d}\times b_{xy}$$&lt;br&gt;$$b_{vu}=\dfrac {d}{b}\times b_{xy}$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="kMVzM64mAZP07Rpd_m66-15" vertex="1">
+          <mxGeometry x="5" y="370" width="220" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="kMVzM64mAZP07Rpd_m66-6" value="Calculation" style="swimlane;swimlaneFillColor=#333333;fontFamily=Helvetica;fontSize=12;fontColor=#f0f0f0;align=center;strokeColor=#f0f0f0;fillColor=#2a2a2a;html=1;startSize=40;" parent="1" vertex="1" collapsed="1">
+          <mxGeometry x="480" y="400" width="200" height="40" as="geometry">
+            <mxRectangle x="480" y="400" width="200" height="500" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kMVzM64mAZP07Rpd_m66-7" value="$$b_{xy}=\dfrac {n\sum xy-\sum x\sum y}{n\sum y^{2}-\left( \sum y\right) ^{2}}$$&lt;br&gt;$$b_{yx}=\dfrac {n\sum xy-\sum x\sum y}{n\sum x^{2}-\left( \sum x\right) ^{2}}$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="kMVzM64mAZP07Rpd_m66-6" vertex="1">
+          <mxGeometry x="10" y="50" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="kMVzM64mAZP07Rpd_m66-9" value="$$b_{xy}=r\dfrac {\sigma_{x}}{\sigma_{y}}$$&lt;br&gt;$$b_{yx}=r\dfrac {\sigma_{y}&lt;br&gt;}{\sigma_{x}}$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="kMVzM64mAZP07Rpd_m66-6" vertex="1">
+          <mxGeometry x="10" y="200" width="180" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="kMVzM64mAZP07Rpd_m66-10" value="$$b_{xy}=\dfrac {covariance\left( x,y\right) }{\left( \sigma y\right) ^{2}}$$&lt;br&gt;$$b_{yx}=\dfrac {covariance\left( x,y\right) }{\left( \sigma x\right) ^{2}}$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="kMVzM64mAZP07Rpd_m66-6" vertex="1">
+          <mxGeometry x="10" y="320" width="180" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="kMVzM64mAZP07Rpd_m66-11" value="$$r\sigma _{x}\sigma _{y}=covariance\left( x,y\right)&amp;nbsp;$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="kMVzM64mAZP07Rpd_m66-6" vertex="1">
+          <mxGeometry x="10" y="460" width="180" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
