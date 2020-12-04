@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-04T05:19:02.881Z" agent="5.0 (X11)" etag="_LKHWKrvrjVgIyxkN5TU" version="13.10.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-04T09:48:26.447Z" agent="5.0 (X11)" etag="YPh0FhxEKh8O_D32BMe4" version="13.10.8" type="github">
   <diagram id="lvt2AvyoI_tqJfmRTpT2" name="Page-1">
     <mxGraphModel dx="1108" dy="423" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="1" shadow="0">
       <root>
@@ -91,7 +91,7 @@
         <mxCell id="edXLwW0AASA6v9MkMHL9-9" value="no number repeating&lt;br&gt;&amp;gt;Rx, Ry (rank the variable based on there value)&lt;br&gt;&amp;gt;d = (Rx - Ry)&lt;br&gt;&amp;gt;d²&lt;br&gt;&amp;gt; r =&lt;br&gt;$$r=1-\dfrac {6\sum d^{2}}{n\left( n^{2}-1\right) }$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="edXLwW0AASA6v9MkMHL9-1" vertex="1">
           <mxGeometry x="10" y="30" width="170" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="oX9GAyv6ey6AnWEL4vP0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="edXLwW0AASA6v9MkMHL9-1" source="nEKAzhENuEYKQ6B82jKB-1" target="2SdksKS-MBvjA2MGx87e-16">
+        <mxCell id="oX9GAyv6ey6AnWEL4vP0-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="edXLwW0AASA6v9MkMHL9-1" source="nEKAzhENuEYKQ6B82jKB-1" target="2SdksKS-MBvjA2MGx87e-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nEKAzhENuEYKQ6B82jKB-1" value="numbers repeating&lt;br&gt;&amp;gt;Rx, Ry&lt;br&gt;&amp;gt;d = (Rx - Ry)&lt;br&gt;&amp;gt;d²&lt;br&gt;&amp;gt;find averrage of the repeating terms&lt;br&gt;&amp;gt; r =&amp;nbsp;&lt;br&gt;$$f=1-\dfrac {6\left( \sum d^{2}+\dfrac {\sum \left( m^{3}-m\right) }{12}\right) }{n\left( n^{2}-1\right) }$$&lt;br&gt;&lt;br&gt;(m=number of time a term repeats)" style="rounded=1;whiteSpace=wrap;html=1;" parent="edXLwW0AASA6v9MkMHL9-1" vertex="1">
@@ -102,7 +102,7 @@
         </mxCell>
         <mxCell id="yImdqqFY_4zEo_N10xjt-8" value="Container" style="swimlane;swimlaneFillColor=#333333;" parent="1" vertex="1" collapsed="1">
           <mxGeometry x="335" y="377" width="90" height="23" as="geometry">
-            <mxRectangle x="335" y="377" width="685" height="423" as="alternateBounds" />
+            <mxRectangle x="335" y="377" width="685" height="533" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2SdksKS-MBvjA2MGx87e-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="yImdqqFY_4zEo_N10xjt-8" source="yImdqqFY_4zEo_N10xjt-9" target="oxPFJ8eN1mq1ElXQ07By-1" edge="1">
@@ -113,7 +113,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="oX9GAyv6ey6AnWEL4vP0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="yImdqqFY_4zEo_N10xjt-8" source="yImdqqFY_4zEo_N10xjt-9" target="2SdksKS-MBvjA2MGx87e-12">
+        <mxCell id="oX9GAyv6ey6AnWEL4vP0-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="yImdqqFY_4zEo_N10xjt-8" source="yImdqqFY_4zEo_N10xjt-9" target="2SdksKS-MBvjA2MGx87e-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="158" y="263" />
@@ -124,14 +124,20 @@
         <mxCell id="yImdqqFY_4zEo_N10xjt-9" value="direct method&lt;br&gt;&amp;gt;xy&lt;br&gt;&amp;gt;x²&lt;br&gt;&amp;gt;y²&amp;nbsp;&lt;br&gt;&amp;gt; r =&lt;br&gt;$$\dfrac {n\left( \sum xy\right) -\sum x\sum y}{\sqrt {n\left( \sum x^{2}\right) -\left( \Sigma x\right) ^{2}}\sqrt {n\left( \sum y^{2}\right) -\left( \sum y\right) ^{2}}}$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="yImdqqFY_4zEo_N10xjt-8" vertex="1">
           <mxGeometry x="5" y="37" width="305" height="156" as="geometry" />
         </mxCell>
-        <mxCell id="oX9GAyv6ey6AnWEL4vP0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="yImdqqFY_4zEo_N10xjt-8" source="oxPFJ8eN1mq1ElXQ07By-1" target="2SdksKS-MBvjA2MGx87e-12">
+        <mxCell id="oX9GAyv6ey6AnWEL4vP0-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="yImdqqFY_4zEo_N10xjt-8" source="oxPFJ8eN1mq1ElXQ07By-1" target="2SdksKS-MBvjA2MGx87e-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="oxPFJ8eN1mq1ElXQ07By-1" value="Assumed mean method&lt;br&gt;&amp;gt;dx, dy (dx=x-A, dy=y-A)&lt;br&gt;&amp;gt;dx², dy², dx*dy&lt;br&gt;&amp;gt; r =&lt;br&gt;$$\dfrac {n\left( \sum dxdy\right) -\sum dx\sum dy}{\sqrt {n\left( \sum dx^{2}\right) -\left( \Sigma dx\right) ^{2}}\sqrt {n\left( \sum dy^{2}\right) -\left( \sum dy\right) ^{2}}}$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="yImdqqFY_4zEo_N10xjt-8" vertex="1">
           <mxGeometry x="335" y="37" width="335" height="200" as="geometry" />
         </mxCell>
+        <mxCell id="zqdpj2bCiC_Y9m4faery-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="yImdqqFY_4zEo_N10xjt-8" source="2SdksKS-MBvjA2MGx87e-12" target="zqdpj2bCiC_Y9m4faery-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="2SdksKS-MBvjA2MGx87e-12" value="if only the formula numbers are given&lt;br&gt;&amp;nbsp;&amp;gt; r =&lt;br&gt;$$\dfrac {\sum \left( x-\overline {x}\right) \left( y-\overline {y}\right) }{\sqrt {\sum \left( x-\overline {x}\right) ^{2}-\sum \left( y-\overline {y}\right) ^{2}}}$$" style="rounded=1;whiteSpace=wrap;html=1;" parent="yImdqqFY_4zEo_N10xjt-8" vertex="1">
           <mxGeometry x="185" y="283" width="260" height="117" as="geometry" />
+        </mxCell>
+        <mxCell id="zqdpj2bCiC_Y9m4faery-1" value="`r=sqrt(b_(xy)*b_(yx))`" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="yImdqqFY_4zEo_N10xjt-8">
+          <mxGeometry x="247.5" y="423" width="135" height="44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
